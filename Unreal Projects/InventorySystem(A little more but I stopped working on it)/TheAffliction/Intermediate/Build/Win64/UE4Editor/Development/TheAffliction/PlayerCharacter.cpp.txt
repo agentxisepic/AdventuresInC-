@@ -1,0 +1,11 @@
+G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\Definitions.TheAffliction.h
+g:\unreal projects\theaffliction\theaffliction\source\theaffliction\PlayerCharacter.h
+g:\unreal projects\theaffliction\theaffliction\source\theaffliction\AfflictionCharacter.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Inc\TheAffliction\AfflictionCharacter.generated.h
+G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Inc\TheAffliction\PlayerCharacter.generated.h
+g:\unreal projects\theaffliction\theaffliction\source\theaffliction\Inventory.h
+G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Inc\TheAffliction\Inventory.generated.h

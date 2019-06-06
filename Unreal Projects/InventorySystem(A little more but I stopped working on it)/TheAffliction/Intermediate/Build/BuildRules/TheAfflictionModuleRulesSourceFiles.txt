@@ -1,0 +1,3 @@
+G:\Unreal Projects\TheAffliction\TheAffliction\Source\TheAffliction\TheAffliction.Build.cs
+G:\Unreal Projects\TheAffliction\TheAffliction\Source\TheAffliction.Target.cs
+G:\Unreal Projects\TheAffliction\TheAffliction\Source\TheAfflictionEditor.Target.cs

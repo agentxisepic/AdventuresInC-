@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheAffliction.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6F261FB7-E67A-4983-BC27-8996A6D079FD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheAffliction.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheAfflictionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5377FD82-8AD7-4DB4-A3D6-108D9DD15096}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheAffliction">
+      <UniqueIdentifier>{792B2A02-C8F4-47AF-9D36-270FEA71B106}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheAffliction\AfflictionCharacter.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\AfflictionCharacter.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\AfflictionMovementComponent.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\AfflictionMovementComponent.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\AfflictionPlayerController.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\AfflictionPlayerController.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\Armor_Item.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\Armor_Item.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\Inventory.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\Inventory.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\InventoryDataStructure.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\InventoryDataStructure.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\Item.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\Item.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\Medical_Item.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\Medical_Item.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\Nathan.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\Nathan.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\PlayerCharacter.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\PlayerCharacter.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\PlayerControllerNathan.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\PlayerControllerNathan.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TheAffliction\TheAffliction.Build.cs">
+      <Filter>Source\TheAffliction</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheAffliction\TheAffliction.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\TheAffliction.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\TheAfflictionGameModeBase.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\TheAfflictionGameModeBase.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheAffliction\Weapon_Item.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheAffliction\Weapon_Item.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\TheAffliction\PlayerStatsController.h">
+      <Filter>Source\TheAffliction</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\TheAffliction\PlayerStatsController.cpp">
+      <Filter>Source\TheAffliction</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\Definitions.TheAffliction.h
+g:\unreal projects\theaffliction\theaffliction\source\theaffliction\TheAfflictionGameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Inc\TheAffliction\TheAfflictionGameModeBase.generated.h

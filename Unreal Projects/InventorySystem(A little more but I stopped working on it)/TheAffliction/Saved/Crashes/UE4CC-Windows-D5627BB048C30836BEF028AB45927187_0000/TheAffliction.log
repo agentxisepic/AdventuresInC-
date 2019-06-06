@@ -1,0 +1,904 @@
+﻿Log file open, 04/09/19 21:53:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheAffliction
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.535981
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.287s to configure plugins.
+LogInit: Warning: Incompatible or missing module: TheAffliction
+Running D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -TargetType=Editor -Progress -NoHotReloadFromIDE
+Using 'git status' to determine working set for adaptive non-unity build (G:\Unreal Projects\TheAffliction).
+Creating makefile for TheAfflictionEditor (no existing makefile)
+Using Visual Studio 2017 14.16.27023 toolchain (G:\Coding\VisualStudio\IDE\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+@progress push 5%
+Parsing headers for TheAfflictionEditor
+  Running UnrealHeaderTool "G:\Unreal Projects\TheAffliction\TheAffliction\TheAffliction.uproject" "G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\TheAfflictionEditor\Development\TheAfflictionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+Reflection code generated for TheAfflictionEditor in 10.9120981 seconds
+@progress pop
+Building 6 actions with 4 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 17%
+  [1/6] TheAffliction.init.gen.cpp
+  @progress 'Compiling C++ source code...' 33%
+  [2/6] AfflictionCharacter.cpp
+  @progress 'Compiling C++ source code...' 50%
+  [3/6] AfflictionPlayerController.cpp
+  @progress 'Compiling C++ source code...' 67%
+  [4/6] AfflictionPlayerController.gen.cpp
+  @progress 'Compiling C++ source code...' 83%
+  [5/6] UE4Editor-TheAffliction.lib
+     Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction.exp
+  @progress 'Compiling C++ source code...' 100%
+  [6/6] UE4Editor-TheAffliction.dll
+     Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction.suppressed.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction.suppressed.exp
+Total build time: 259.23 seconds (Parallel executor: 203.14 seconds)
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Pentium(R) CPU G4560 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Fortnite/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.011s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.10-03.57.39:823][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.10-03.57.39:823][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.10-03.57.39:823][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.10-03.57.39:823][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.10-03.57.39:823][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.10-03.57.39:823][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2019.04.10-03.57.39:823][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.10-03.57.39:823][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.10-03.57.39:823][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.10-03.57.39:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.10-03.57.39:824][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.10-03.57.39:828][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.10-03.57.39:829][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.10-03.57.39:829][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.10-03.57.39:830][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.10-03.57.39:871][  0]LogHAL: Display: Platform has ~ 8 GB [8470962176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.10-03.57.39:871][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.10-03.57.39:871][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.10-03.57.39:871][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.10-03.57.39:872][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.10-03.57.39:872][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.10-03.57.39:878][  0]LogInit: Computer: DESKTOP-2IRICL2
+[2019.04.10-03.57.39:878][  0]LogInit: User: agentxisepic
+[2019.04.10-03.57.39:878][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.10-03.57.39:878][  0]LogInit: High frequency timer resolution =3.421875 MHz
+[2019.04.10-03.57.39:878][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.10-03.57.39:878][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.10-03.57.39:878][  0]LogMemory: Process Physical Memory: 106.95 MB used, 106.95 MB peak
+[2019.04.10-03.57.39:878][  0]LogMemory: Process Virtual Memory: 92.99 MB used, 92.99 MB peak
+[2019.04.10-03.57.39:878][  0]LogMemory: Physical Memory: 4185.17 MB used,  3893.37 MB free, 8078.54 MB total
+[2019.04.10-03.57.39:878][  0]LogMemory: Virtual Memory: 4673.57 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.04.10-03.57.40:027][  0]LogInit: Using OS detected language (en-US).
+[2019.04.10-03.57.40:027][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.10-03.57.40:028][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.10-03.57.40:685][  0]LogStreaming: Display: Took  0.658s to InitEngineTextLocalization.
+[2019.04.10-03.57.40:685][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.10-03.57.40:826][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.10-03.57.40:826][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.10-03.57.46:254][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.10-03.57.46:255][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.10-03.57.46:343][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.04.10-03.57.46:343][  0]LogD3D11RHI:       2988/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.10-03.57.46:356][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 610' (Feature Level 11_0)
+[2019.04.10-03.57.46:356][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.04.10-03.57.46:360][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.10-03.57.46:360][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.10-03.57.46:360][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.10-03.57.46:366][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.10-03.57.46:366][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.10-03.57.46:366][  0]LogWindows: EnumDisplayDevices:
+[2019.04.10-03.57.46:366][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.04.10-03.57.46:366][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.10-03.57.46:367][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.10-03.57.46:367][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.10-03.57.46:367][  0]LogWindows:    4. 'Intel(R) HD Graphics 610' (P:0 D:1)
+[2019.04.10-03.57.46:367][  0]LogWindows:    5. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.10-03.57.46:368][  0]LogWindows:    6. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.10-03.57.46:368][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.10-03.57.46:368][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.04.10-03.57.46:368][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2019.04.10-03.57.46:368][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2019.04.10-03.57.46:368][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.04.10-03.57.46:405][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.10-03.57.46:454][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.10-03.57.46:841][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.10-03.57.46:869][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.10-03.57.46:886][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.10-03.57.46:909][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.10-03.57.46:943][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.10-03.57.46:961][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.10-03.57.46:984][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.10-03.57.47:004][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.10-03.57.47:018][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:139][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.10-03.57.47:156][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.10-03.57.47:268][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.10-03.57.47:268][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.10-03.57.47:312][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.10-03.57.47:312][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.10-03.57.47:339][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.10-03.57.47:353][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.10-03.57.47:372][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.10-03.57.47:400][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.10-03.57.47:485][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.10-03.57.47:485][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.10-03.57.47:485][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.10-03.57.47:807][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (G:/Unreal Projects/TheAffliction/TheAffliction/Intermediate/Shaders/WorkingDirectory/12580/).
+[2019.04.10-03.57.47:807][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/agentxisepic/AppData/Local/Temp/UnrealShaderWorkingDir/0C78CABE4436E70CFE8AF3AACF0D41A0/'.
+[2019.04.10-03.57.47:816][  0]LogXGEController: Cleaning working directory: C:/Users/agentxisepic/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.10-03.57.47:817][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.10-03.57.47:817][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.10-03.57.47:817][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.10-03.57.49:666][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.10-03.57.50:052][  0]LogDerivedDataCache: Loaded boot cache 0.39s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.10-03.57.50:052][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.10-03.57.50:053][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.10-03.57.50:053][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.10-03.57.50:053][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.10-03.57.50:053][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.10-03.57.50:085][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.10-03.57.50:086][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.10-03.57.50:086][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.10-03.57.50:099][  0]LogDerivedDataCache: Using Local data cache path C:/Users/agentxisepic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.10-03.57.50:099][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.10-03.57.50:099][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.10-03.57.50:122][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.10-03.57.50:123][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.10-03.57.50:152][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.10-03.57.50:748][  0]LogAssetRegistry: FAssetRegistry took 0.0325 seconds to start up
+[2019.04.10-03.57.51:119][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.10-03.57.51:591][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.10-03.57.51:618][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.10-03.57.51:618][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.10-03.57.51:618][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.10-03.57.51:618][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.10-03.57.51:635][  0]LogNetVersion: TheAffliction 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4273532765)
+[2019.04.10-03.57.52:540][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.139310 seconds
+[2019.04.10-03.57.52:546][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.10-03.57.52:546][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.10-03.57.52:546][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.10-03.57.59:768][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.10-03.57.59:791][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.10-03.58.01:197][  0]SourceControl: Source control is disabled
+[2019.04.10-03.58.01:197][  0]SourceControl: Source control is disabled
+[2019.04.10-03.58.01:231][  0]SourceControl: Source control is disabled
+[2019.04.10-03.58.01:244][  0]SourceControl: Source control is disabled
+[2019.04.10-03.58.01:939][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.10-03.58.02:193][  0]LogOcInput: OculusInput pre-init called
+[2019.04.10-03.58.02:442][  0]LogEngine: Initializing Engine...
+[2019.04.10-03.58.02:443][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.10-03.58.02:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.10-03.58.02:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.10-03.58.02:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.10-03.58.02:444][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.10-03.58.02:710][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.10-03.58.02:789][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.10-03.58.02:833][  0]LogInit: XAudio2 using 'Speakers (LG CM4550(5D) Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.10-03.58.02:850][  0]LogInit: FAudioDevice initialized.
+[2019.04.10-03.58.02:851][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.10-03.58.02:993][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.10-03.58.02:997][  0]LogInit: Texture streaming: Enabled
+[2019.04.10-03.58.03:060][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.10-03.58.03:118][  0]LogInit: Transaction tracking system initialized
+[2019.04.10-03.58.03:242][  0]BlueprintLog: New page: Editor Load
+[2019.04.10-03.58.03:659][  0]LocalizationService: Localization service is disabled
+[2019.04.10-03.58.04:727][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/' took 0.02s
+[2019.04.10-03.58.04:727][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.10-03.58.04:727][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.10-03.58.04:727][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.10-03.58.04:727][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.10-03.58.04:727][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.10-03.58.04:727][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.10-03.58.04:727][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.10-03.58.05:586][  0]SourceControl: Source control is disabled
+[2019.04.10-03.58.05:586][  0]Cmd: MAP LOAD FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/Levels/TESTING/Prototyping.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.10-03.58.05:586][  0]LightingResults: New page: Lighting Build
+[2019.04.10-03.58.05:600][  0]MapCheck: New page: Map Check
+[2019.04.10-03.58.05:600][  0]LightingResults: New page: Lighting Build
+[2019.04.10-03.58.05:857][  0]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.10-03.58.05:865][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.10-03.58.05:885][  0]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-03.58.05:886][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.10-03.58.05:886][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2019.04.10-03.58.05:886][  0]LogFileHelpers: Loading map 'Prototyping' took 0.299
+[2019.04.10-03.58.06:075][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-03.58.06:082][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-03.58.06:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-03.58.06:095][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.10-03.58.06:114][  0]LogCollectionManager: Loaded 0 collections in 0.000852 seconds
+[2019.04.10-03.58.06:147][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Collections/' took 0.01s
+[2019.04.10-03.58.06:147][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Developers/agentxisepic/Collections/' took 0.00s
+[2019.04.10-03.58.06:147][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Collections/' took 0.00s
+[2019.04.10-03.58.06:147][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.10-03.58.06:155][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2664 classes and 624 folders.
+[2019.04.10-03.58.06:187][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.10-03.58.06:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:250][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:264][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:283][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:324][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:335][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:368][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:542][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.06:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.10-03.58.07:490][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.10-03.58.07:603][  0]LogSlate: Took 0.017769 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.10-03.58.07:617][  0]LogSlate: Took 0.006216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.10-03.58.07:641][  0]LogSlate: Took 0.019681 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.10-03.58.07:746][  0]LogRenderer: Reallocating scene render targets to support 1160x580 Format 10 NumSamples 1 (Frame:1).
+[2019.04.10-03.58.07:828][  0]LogSlate: Took 0.018890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-03.58.07:946][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.10-03.58.07:946][  0]LogLoad: (Engine Initialization) Total time: 293.47 seconds
+[2019.04.10-03.58.07:946][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.10-03.58.07:957][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.10-03.58.08:022][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.10-03.58.08:234][  2]LogAssetRegistry: Asset discovery search completed in 17.5083 seconds
+[2019.04.10-03.58.08:237][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.10-03.58.08:237][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2019.04.10-03.58.09:011][ 63]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.10-03.58.34:169][274]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.10-03.59.38:789][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-03.59.40:189][353]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/TestMesh.TestMesh
+[2019.04.10-03.59.40:718][353]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2019.04.10-03.59.41:580][353]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerCharacter_BP.PlayerCharacter_BP
+[2019.04.10-03.59.41:938][353]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyMedical_Item.MyMedical_Item
+[2019.04.10-03.59.42:264][353]LogSlate: Took 0.015845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.10-03.59.44:391][543]LogSlate: Took 0.011900 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.10-03.59.45:236][625]LogSlate: Window 'TestMesh' being destroyed
+[2019.04.10-04.00.21:315][895]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.04.10-04.00.45:632][326]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.04.10-04.00.57:092][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ExtensibleInteractionComponent" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/ExtensibleInteractionComponent.uasset" SILENT=true
+[2019.04.10-04.00.57:112][600]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/ExtensibleInteractionComponent4BDB374E452748A5B5A3C2B1E00A4F04.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/ExtensibleInteractionComponent.uasset'
+[2019.04.10-04.01.22:640][598]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent.ExtensibleInteractionComponent:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.01.22:640][598]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent.SKEL_ExtensibleInteractionComponent_C:UserConstructionScript' ref from Metadata '/Game/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.01.22:640][598]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent.SKEL_ExtensibleInteractionComponent_C' ref from Metadata '/Game/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.01.22:640][598]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent.ExtensibleInteractionComponent_C' ref from Metadata '/Game/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.01.22:640][598]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent.ExtensibleInteractionComponent:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.01.22:640][598]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent.ExtensibleInteractionComponent:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.01.22:640][598]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent.ExtensibleInteractionComponent:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.01.22:692][598]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/ExtensibleInteractionComponent78EB69C945B908BC4789818B10D3517C.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/ModularComponents/ExtensibleInteractionComponent.uasset'
+[2019.04.10-04.01.26:406][  8]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ModularComponents/ExtensibleInteractionComponent.ExtensibleInteractionComponent
+[2019.04.10-04.01.26:768][  9]LogRenderer: Reallocating scene render targets to support 1160x744 Format 10 NumSamples 1 (Frame:1).
+[2019.04.10-04.01.32:279][648]BlueprintLog: New page: Compile ExtensibleInteractionComponent
+[2019.04.10-04.01.33:172][680]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/ExtensibleInteractionComponent0B05E52F4BC00958485CF5A51DB1D74C.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/ModularComponents/ExtensibleInteractionComponent.uasset'
+[2019.04.10-04.01.50:800][743]BlueprintLog: New page: Compile ExtensibleInteractionComponent
+[2019.04.10-04.01.51:456][748]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/ExtensibleInteractionComponent34FC2E3F41C17261AE68D893C55E56CE.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/ModularComponents/ExtensibleInteractionComponent.uasset'
+[2019.04.10-04.02.18:635][860]Running D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -game -rocket -progress
+[2019.04.10-04.02.18:944][860]Discovering modules, targets and source code for project...
+[2019.04.10-04.02.21:259][860]Binding IntelliSense data...
+[2019.04.10-04.02.22:871][860]Binding IntelliSense data... 100%
+[2019.04.10-04.02.22:871][860]Writing project files...
+[2019.04.10-04.02.25:492][860]Writing project files... 100%
+[2019.04.10-04.02.25:704][860]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.04.10-04.02.25:706][860]Candidate modules for hot reload:
+[2019.04.10-04.02.25:706][860]  TheAffliction
+[2019.04.10-04.02.25:707][860]Launching UnrealBuildTool... [D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheAffliction,5082 Win64 Development -TargetType=Editor -Project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -canskiplink "G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" ]
+[2019.04.10-04.02.49:116][860]CompilerResultsLog: New page: Compilation - Apr 9, 2019, 4:02:49 PM
+[2019.04.10-04.02.49:116][860]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (G:\Unreal Projects\TheAffliction).
+[2019.04.10-04.02.49:117][860]CompilerResultsLog: Creating makefile for hot reloading TheAfflictionEditor (source directory changed)
+[2019.04.10-04.02.49:117][860]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.10-04.02.49:117][860]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (G:\Coding\VisualStudio\IDE\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.04.10-04.02.49:117][860]CompilerResultsLog: Parsing headers for TheAfflictionEditor
+[2019.04.10-04.02.49:117][860]CompilerResultsLog:   Running UnrealHeaderTool "G:\Unreal Projects\TheAffliction\TheAffliction\TheAffliction.uproject" "G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\TheAfflictionEditor\Development\TheAfflictionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.10-04.02.49:117][860]CompilerResultsLog: Reflection code generated for TheAfflictionEditor in 11.4557831 seconds
+[2019.04.10-04.02.49:117][860]CompilerResultsLog: Building 5 actions with 4 processes...
+[2019.04.10-04.02.49:117][860]CompilerResultsLog:   [1/5] TheAffliction.init.gen.cpp
+[2019.04.10-04.02.49:117][860]CompilerResultsLog:   [2/5] ExtensibleInteractionComponent.cpp
+[2019.04.10-04.02.49:117][860]CompilerResultsLog:   [3/5] ExtensibleInteractionComponent.gen.cpp
+[2019.04.10-04.02.49:117][860]CompilerResultsLog:   [4/5] UE4Editor-TheAffliction-5082.lib
+[2019.04.10-04.02.49:117][860]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-5082.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-5082.exp
+[2019.04.10-04.02.49:117][860]CompilerResultsLog:   [5/5] UE4Editor-TheAffliction-5082.dll
+[2019.04.10-04.02.49:117][860]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-5082.suppressed.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-5082.suppressed.exp
+[2019.04.10-04.02.49:117][860]CompilerResultsLog: Total build time: 23.04 seconds (Parallel executor: 5.21 seconds)
+[2019.04.10-04.02.49:117][860]LogMainFrame: MainFrame: Module compiling took 23.413 seconds
+[2019.04.10-04.02.49:188][860]LogClass: Could not find existing class ExtensibleInteractionComponent in package /Script/TheAffliction for HotReload, assuming new class
+[2019.04.10-04.02.49:209][860]LogContentBrowser: Native class hierarchy updated for 'TheAffliction' in 0.0006 seconds. Added 13 classes and 2 folders.
+[2019.04.10-04.02.49:213][860]Display: HotReload successful (20 functions remapped  0 scriptstructs remapped)
+[2019.04.10-04.02.49:367][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.02.49:367][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.02.49:368][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.02.49:368][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.02.49:368][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.02.49:368][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.02.49:368][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.02.49:368][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.02.49:668][860]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2665 classes and 624 folders.
+[2019.04.10-04.02.49:668][860]Display: HotReload took 24.0s.
+[2019.04.10-04.02.49:670][860]Warning: HotReload operation took 24.0s.
+[2019.04.10-04.02.49:755][860]LogSlate: Window 'Add C++ Class' being destroyed
+[2019.04.10-04.02.49:760][860]LogHotReload: New module detected: UE4Editor-TheAffliction-5082.dll
+[2019.04.10-04.02.49:800][861]LogHotReload: Starting Hot-Reload from IDE
+[2019.04.10-04.02.49:884][861]LogContentBrowser: Native class hierarchy updated for 'TheAffliction' in 0.0004 seconds. Added 13 classes and 2 folders.
+[2019.04.10-04.02.49:887][861]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2019.04.10-04.02.50:215][861]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2665 classes and 624 folders.
+[2019.04.10-04.02.50:217][861]Display: HotReload took  0.4s.
+[2019.04.10-04.04.35:951][783]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent_BP.ExtensibleInteractionComponent_BP_C' ref from Metadata '/Game/ModularComponents/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.04.35:951][783]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent_BP.SKEL_ExtensibleInteractionComponent_BP_C' ref from Metadata '/Game/ModularComponents/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.04.35:951][783]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent_BP.ExtensibleInteractionComponent_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ModularComponents/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.04.35:951][783]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent_BP.ExtensibleInteractionComponent_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ModularComponents/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.04.35:951][783]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent_BP.ExtensibleInteractionComponent_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/ModularComponents/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.04.35:951][783]LogMetaData: Removing '/Game/ModularComponents/ExtensibleInteractionComponent_BP.ExtensibleInteractionComponent_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/ModularComponents/ExtensibleInteractionComponent.PackageMetaData'
+[2019.04.10-04.04.36:000][783]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/ExtensibleInteractionComponent_BCCD4565942502FA16499D0AE5EFF5FC5.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/ModularComponents/ExtensibleInteractionComponent_BP.uasset'
+[2019.04.10-04.10.14:943][974]Candidate modules for hot reload:
+[2019.04.10-04.10.14:943][974]  TheAffliction
+[2019.04.10-04.10.14:943][974]Launching UnrealBuildTool... [D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheAffliction,1548 Win64 Development -TargetType=Editor -Project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -canskiplink "G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" ]
+[2019.04.10-04.10.14:948][974]Warning: Starting HotReload took  0.1s.
+[2019.04.10-04.10.30:683][942]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.10-04.10.35:330][298]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-04.14.53:823][860]CompilerResultsLog: New page: Compilation - Apr 9, 2019, 4:14:53 PM
+[2019.04.10-04.14.53:823][860]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (G:\Unreal Projects\TheAffliction).
+[2019.04.10-04.14.53:823][860]CompilerResultsLog: Creating makefile for hot reloading TheAfflictionEditor (source directory changed)
+[2019.04.10-04.14.53:823][860]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.10-04.14.53:823][860]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (G:\Coding\VisualStudio\IDE\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.04.10-04.14.53:823][860]CompilerResultsLog: Parsing headers for TheAfflictionEditor
+[2019.04.10-04.14.53:823][860]CompilerResultsLog:   Running UnrealHeaderTool "G:\Unreal Projects\TheAffliction\TheAffliction\TheAffliction.uproject" "G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\TheAfflictionEditor\Development\TheAfflictionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.10-04.14.53:823][860]CompilerResultsLog: Reflection code generated for TheAfflictionEditor in 42.6428136 seconds
+[2019.04.10-04.14.53:823][860]CompilerResultsLog: Building 5 actions with 4 processes...
+[2019.04.10-04.14.53:823][860]CompilerResultsLog:   [1/5] TheAffliction.init.gen.cpp
+[2019.04.10-04.14.53:824][860]CompilerResultsLog:   [2/5] ExtensibleInteractionComponent.cpp
+[2019.04.10-04.14.53:824][860]CompilerResultsLog:   [3/5] ExtensibleInteractionComponent.gen.cpp
+[2019.04.10-04.14.53:824][860]CompilerResultsLog:   [4/5] UE4Editor-TheAffliction-1548.lib
+[2019.04.10-04.14.53:824][860]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-1548.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-1548.exp
+[2019.04.10-04.14.53:824][860]CompilerResultsLog:   [5/5] UE4Editor-TheAffliction-1548.dll
+[2019.04.10-04.14.53:824][860]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-1548.suppressed.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-1548.suppressed.exp
+[2019.04.10-04.14.53:824][860]CompilerResultsLog: Total build time: 277.32 seconds (Parallel executor: 146.15 seconds)
+[2019.04.10-04.14.53:824][860]LogMainFrame: MainFrame: Module compiling took 278.885 seconds
+[2019.04.10-04.14.53:927][860]LogClass: Could not find existing class ExtensibleInteractionComponent in package /Script/TheAffliction for HotReload, assuming new class
+[2019.04.10-04.14.53:953][860]LogHotReload: Re-instancing ExtensibleInteractionComponent after hot-reload.
+[2019.04.10-04.14.54:157][860]LogContentBrowser: Native class hierarchy updated for 'TheAffliction' in 0.0004 seconds. Added 13 classes and 2 folders.
+[2019.04.10-04.14.54:161][860]Display: HotReload successful (20 functions remapped  0 scriptstructs remapped)
+[2019.04.10-04.14.54:284][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.14.54:284][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.14.54:284][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.14.54:285][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.14.54:285][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.14.54:285][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.14.54:285][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.14.54:285][860]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.14.54:576][860]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2665 classes and 624 folders.
+[2019.04.10-04.14.54:576][860]Display: HotReload took 279.7s.
+[2019.04.10-04.16.02:932][844]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.10-04.16.25:749][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.10-04.16.56:599][ 48]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.16.57:856][ 48]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping_Auto128BE5BC646A733C1714A5492EF64D914.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Autosaves/Game/Levels/TESTING/Prototyping_Auto1.umap'
+[2019.04.10-04.16.57:906][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TESTING/Prototyping' took 1.447
+[2019.04.10-04.16.57:907][ 48]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.447
+[2019.04.10-04.16.57:909][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyMedical_Item] ([1] browsable assets)...
+[2019.04.10-04.16.57:909][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyMedical_Item]
+[2019.04.10-04.16.57:909][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMedical_Item" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Autosaves/Game/MyMedical_Item_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.10-04.16.58:016][ 48]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/MyMedical_Item_Auto16F6A8D6842B659A2E73AFA8DA3E52D6F.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Autosaves/Game/MyMedical_Item_Auto1.uasset'
+[2019.04.10-04.16.58:018][ 48]LogFileHelpers: Auto-saving content packages took 0.109
+[2019.04.10-04.17.02:267][260]Candidate modules for hot reload:
+[2019.04.10-04.17.02:267][260]  TheAffliction
+[2019.04.10-04.17.02:267][260]Launching UnrealBuildTool... [D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheAffliction,612 Win64 Development -TargetType=Editor -Project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -canskiplink "G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" ]
+[2019.04.10-04.17.02:275][260]Warning: Starting HotReload took  0.0s.
+[2019.04.10-04.17.06:820][455]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.04.10-04.18.15:065][651]CompilerResultsLog: New page: Compilation - Apr 9, 2019, 4:18:15 PM
+[2019.04.10-04.18.15:066][651]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (G:\Unreal Projects\TheAffliction).
+[2019.04.10-04.18.15:066][651]CompilerResultsLog: Creating makefile for hot reloading TheAfflictionEditor (source directory changed)
+[2019.04.10-04.18.15:066][651]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.10-04.18.15:066][651]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (G:\Coding\VisualStudio\IDE\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.04.10-04.18.15:066][651]CompilerResultsLog: Parsing headers for TheAfflictionEditor
+[2019.04.10-04.18.15:066][651]CompilerResultsLog:   Running UnrealHeaderTool "G:\Unreal Projects\TheAffliction\TheAffliction\TheAffliction.uproject" "G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\TheAfflictionEditor\Development\TheAfflictionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.10-04.18.15:066][651]CompilerResultsLog: Reflection code generated for TheAfflictionEditor in 38.3956398 seconds
+[2019.04.10-04.18.15:066][651]CompilerResultsLog: Building 5 actions with 4 processes...
+[2019.04.10-04.18.15:066][651]CompilerResultsLog:   [1/5] ExtensibleInteractionComponent.cpp
+[2019.04.10-04.18.15:066][651]CompilerResultsLog:   [2/5] TheAffliction.init.gen.cpp
+[2019.04.10-04.18.15:066][651]CompilerResultsLog:   [3/5] ExtensibleInteractionComponent.gen.cpp
+[2019.04.10-04.18.15:066][651]CompilerResultsLog:   [4/5] UE4Editor-TheAffliction-612.lib
+[2019.04.10-04.18.15:066][651]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-612.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-612.exp
+[2019.04.10-04.18.15:066][651]CompilerResultsLog:   [5/5] UE4Editor-TheAffliction-612.dll
+[2019.04.10-04.18.15:067][651]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-612.suppressed.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-612.suppressed.exp
+[2019.04.10-04.18.15:067][651]CompilerResultsLog: Total build time: 71.21 seconds (Parallel executor: 10.40 seconds)
+[2019.04.10-04.18.15:067][651]LogMainFrame: MainFrame: Module compiling took 72.803 seconds
+[2019.04.10-04.18.15:206][651]LogClass: Could not find existing class ExtensibleInteractionComponent in package /Script/TheAffliction for HotReload, assuming new class
+[2019.04.10-04.18.15:235][651]LogHotReload: Re-instancing ExtensibleInteractionComponent after hot-reload.
+[2019.04.10-04.18.15:418][651]LogContentBrowser: Native class hierarchy updated for 'TheAffliction' in 0.0004 seconds. Added 13 classes and 2 folders.
+[2019.04.10-04.18.15:423][651]Display: HotReload successful (20 functions remapped  0 scriptstructs remapped)
+[2019.04.10-04.18.15:549][651]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.18.15:549][651]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.18.15:549][651]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.18.15:549][651]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.18.15:549][651]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.18.15:549][651]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.18.15:549][651]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.18.15:550][651]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.18.15:835][651]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2665 classes and 624 folders.
+[2019.04.10-04.18.15:835][651]Display: HotReload took 73.6s.
+[2019.04.10-04.18.37:673][960]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.10-04.18.52:473][ 19]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.10-04.21.49:384][345]Candidate modules for hot reload:
+[2019.04.10-04.21.49:384][345]  TheAffliction
+[2019.04.10-04.21.49:384][345]Launching UnrealBuildTool... [D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheAffliction,3005 Win64 Development -TargetType=Editor -Project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -canskiplink "G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" ]
+[2019.04.10-04.21.49:389][345]Warning: Starting HotReload took  0.0s.
+[2019.04.10-04.21.53:651][540]BlueprintLog: New page: Compile MyMedical_Item
+[2019.04.10-04.21.54:066][540]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.21.54:073][540]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.21.54:099][540]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.21.54:137][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMedical_Item" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/MyMedical_Item.uasset" SILENT=true
+[2019.04.10-04.21.54:233][540]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/MyMedical_Item2B92B2DC45F255A359C0F3BE0CBB7E58.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/MyMedical_Item.uasset'
+[2019.04.10-04.21.54:737][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyMedical_Item" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/MyMedical_Item.uasset" SILENT=true
+[2019.04.10-04.21.54:828][572]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/MyMedical_ItemE6590A04452ACDDEDBF75D9A59FDAB83.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/MyMedical_Item.uasset'
+[2019.04.10-04.23.13:182][130]CompilerResultsLog: New page: Compilation - Apr 9, 2019, 4:23:13 PM
+[2019.04.10-04.23.13:182][130]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (G:\Unreal Projects\TheAffliction).
+[2019.04.10-04.23.13:182][130]CompilerResultsLog: Creating makefile for hot reloading TheAfflictionEditor (source directory changed)
+[2019.04.10-04.23.13:182][130]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.10-04.23.13:183][130]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (G:\Coding\VisualStudio\IDE\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.04.10-04.23.13:183][130]CompilerResultsLog: Parsing headers for TheAfflictionEditor
+[2019.04.10-04.23.13:183][130]CompilerResultsLog:   Running UnrealHeaderTool "G:\Unreal Projects\TheAffliction\TheAffliction\TheAffliction.uproject" "G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\TheAfflictionEditor\Development\TheAfflictionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.04.10-04.23.13:183][130]CompilerResultsLog: Reflection code generated for TheAfflictionEditor in 43.1051958 seconds
+[2019.04.10-04.23.13:183][130]CompilerResultsLog: Building 5 actions with 4 processes...
+[2019.04.10-04.23.13:183][130]CompilerResultsLog:   [1/5] TheAffliction.init.gen.cpp
+[2019.04.10-04.23.13:183][130]CompilerResultsLog:   [2/5] ExtensibleInteractionComponent.gen.cpp
+[2019.04.10-04.23.13:183][130]CompilerResultsLog:   [3/5] ExtensibleInteractionComponent.cpp
+[2019.04.10-04.23.13:183][130]CompilerResultsLog:   [4/5] UE4Editor-TheAffliction-3005.lib
+[2019.04.10-04.23.13:183][130]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-3005.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-3005.exp
+[2019.04.10-04.23.13:183][130]CompilerResultsLog:   [5/5] UE4Editor-TheAffliction-3005.dll
+[2019.04.10-04.23.13:183][130]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-3005.suppressed.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-3005.suppressed.exp
+[2019.04.10-04.23.13:183][130]CompilerResultsLog: Total build time: 83.03 seconds (Parallel executor: 18.38 seconds)
+[2019.04.10-04.23.13:183][130]LogMainFrame: MainFrame: Module compiling took 83.803 seconds
+[2019.04.10-04.23.13:241][130]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.23.13:298][130]LogClass: Could not find existing class ExtensibleInteractionComponent in package /Script/TheAffliction for HotReload, assuming new class
+[2019.04.10-04.23.13:323][130]LogHotReload: Re-instancing ExtensibleInteractionComponent after hot-reload.
+[2019.04.10-04.23.13:492][130]LogContentBrowser: Native class hierarchy updated for 'TheAffliction' in 0.0004 seconds. Added 13 classes and 2 folders.
+[2019.04.10-04.23.13:497][130]Display: HotReload successful (20 functions remapped  0 scriptstructs remapped)
+[2019.04.10-04.23.13:620][130]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.23.13:621][130]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.23.13:621][130]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.23.13:621][130]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.23.13:621][130]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.23.13:621][130]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.23.13:621][130]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.23.13:621][130]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.23.13:906][130]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2665 classes and 624 folders.
+[2019.04.10-04.23.13:906][130]Display: HotReload took 84.5s.
+[2019.04.10-04.23.56:213][872]PIE: Warning: AttachTo: '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.MyMedical_Item_2.ExtensibleInteractionComponent_BP' is not static  (in blueprint "MyMedical_Item"), cannot attach '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.ExtensibleInteractionComponent_BP_GEN_VARIABLE_ExtensibleInteractionComponent_BP_C_CAT_1.StaticMeshComponent0' which is static to it. Aborting.
+[2019.04.10-04.23.56:214][872]PIE: Warning: AttachTo: '/Engine/Transient.World_2:PersistentLevel.MyMedical_Item_C_0.ExtensibleInteractionComponent_BP' is not static  (in blueprint "MyMedical_Item"), cannot attach '/Engine/Transient.World_2:PersistentLevel.ExtensibleInteractionComponent_BP_GEN_VARIABLE_ExtensibleInteractionComponent_BP_C_CAT_0.StaticMeshComponent0' which is static to it. Aborting.
+[2019.04.10-04.24.29:526][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.10-04.24.35:972][534]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ExtensibleInteractionComponent_BP_C /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.ExtensibleInteractionComponent_BP_7) from referencer (ExtensibleInteractionComponent /Script/TheAffliction.Default__ExtensibleInteractionComponent).  Import failed...
+[2019.04.10-04.24.35:972][534]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ExtensibleInteractionComponent_BP_C /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.ExtensibleInteractionComponent_BP_7) from referencer (ExtensibleInteractionComponent /Engine/Transient.World_2:PersistentLevel.MyMedical_Item_C_0.ExtensibleInteraction).  Import failed...
+[2019.04.10-04.24.38:272][677]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ExtensibleInteractionComponent_BP_C /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.ExtensibleInteractionComponent_BP_7) from referencer (ExtensibleInteractionComponent /Script/TheAffliction.Default__ExtensibleInteractionComponent).  Import failed...
+[2019.04.10-04.24.38:272][677]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ExtensibleInteractionComponent_BP_C /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.ExtensibleInteractionComponent_BP_7) from referencer (ExtensibleInteractionComponent /Engine/Transient.World_2:PersistentLevel.MyMedical_Item_C_0.ExtensibleInteraction).  Import failed...
+[2019.04.10-04.24.40:113][790]LogProperty: Warning: Illegal TEXT reference to a private object in external package (StaticMeshActor /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Floor_400x400_2) from referencer (ExtensibleInteractionComponent /Script/TheAffliction.Default__ExtensibleInteractionComponent).  Import failed...
+[2019.04.10-04.24.40:113][790]LogProperty: Warning: Illegal TEXT reference to a private object in external package (StaticMeshActor /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Floor_400x400_2) from referencer (ExtensibleInteractionComponent /Engine/Transient.World_2:PersistentLevel.MyMedical_Item_C_0.ExtensibleInteraction).  Import failed...
+[2019.04.10-04.24.41:950][904]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ExtensibleInteractionComponent_BP_C /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.ExtensibleInteractionComponent_BP_7) from referencer (ExtensibleInteractionComponent /Script/TheAffliction.Default__ExtensibleInteractionComponent).  Import failed...
+[2019.04.10-04.24.41:950][904]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ExtensibleInteractionComponent_BP_C /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.ExtensibleInteractionComponent_BP_7) from referencer (ExtensibleInteractionComponent /Engine/Transient.World_2:PersistentLevel.MyMedical_Item_C_0.ExtensibleInteraction).  Import failed...
+[2019.04.10-04.24.44:379][ 58]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ExtensibleInteractionComponent_BP_C /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.ExtensibleInteractionComponent_BP_7) from referencer (ExtensibleInteractionComponent /Script/TheAffliction.Default__ExtensibleInteractionComponent).  Import failed...
+[2019.04.10-04.24.44:379][ 58]LogProperty: Warning: Illegal TEXT reference to a private object in external package (ExtensibleInteractionComponent_BP_C /Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.ExtensibleInteractionComponent_BP_7) from referencer (ExtensibleInteractionComponent /Engine/Transient.World_2:PersistentLevel.MyMedical_Item_C_0.ExtensibleInteraction).  Import failed...
+[2019.04.10-04.24.56:423][960]LogEditorActor: Deleted Actor: ExtensibleInteractionComponent_BP_C
+[2019.04.10-04.24.56:467][960]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.24.56:488][960]LogTemp: Warning: DeconstructedAItem
+[2019.04.10-04.24.56:489][960]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2019.04.10-04.25.00:304][170]LogSlate: Window 'Delete Assets' being destroyed
+[2019.04.10-04.25.00:316][170]LogSlate: Window 'MyMedical_Item*' being destroyed
+[2019.04.10-04.25.00:324][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-04.25.00:448][170]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.04.10-04.25.01:761][170]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.10-04.25.04:515][170]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.742 s
+[2019.04.10-04.25.04:528][170]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: 
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: Ensure condition failed: ChildActorTemplate == nullptr [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\Components\ChildActorComponent.cpp] [Line: 105]
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: Found unexpected ChildActorTemplate REINST_ExtensibleInteractionComponent_BP_C_62 /Game/MyMedical_Item.MyMedical_Item_C:ExtensibleInteractionComponent_BP_REMOVED_6A0A361E44C2DAC1E6053C89207480B9.ExtensibleInteractionComponent_BP_GEN_VARIABLE_ExtensibleInteractionComponent_BP_C_CAT when ChildActorClass is null
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: Stack: 
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffceccd72 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff80fac378a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffafbc3dc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffb4fe5e4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffb4fbd46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffabff578 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffaec8a90 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffaec2e9f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc51c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc308e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc3a2678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc38857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc37b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff83422de26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff834220de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff8342301eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff83421ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff86a886d41 USER32.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff86a886713 USER32.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff8342316a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc3af842 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc33738c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffaf69816 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffb4ef798 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffb4eeba3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007fffe98a7ac2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007fffe99da967 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007fffe99b3468 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc35226e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc4579fe UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc460090 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc432a0f UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc51c7bb UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc461da5 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc308e25 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc3a2678 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc38857a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ffffc37b44c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff83422de26 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff834220de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff8342301eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:529][170]LogOutputDevice: Error: [Callstack] 0x00007ff83421ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff86a886d41 USER32.dll!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff86a886713 USER32.dll!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff834231746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff6454d5546 UE4Editor.exe!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff6454e596c UE4Editor.exe!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff6454e59ea UE4Editor.exe!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff6454f48da UE4Editor.exe!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff6454f659a UE4Editor.exe!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff86aba3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: [Callstack] 0x00007ff86d053691 ntdll.dll!UnknownFunction []
+[2019.04.10-04.25.04:530][170]LogOutputDevice: Error: 
+[2019.04.10-04.25.04:536][170]LogStats:                SubmitErrorReport -  0.000 s

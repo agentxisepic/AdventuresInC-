@@ -1,0 +1,1884 @@
+﻿Log file open, 04/05/19 22:20:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheAffliction
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.133606
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.507s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Pentium(R) CPU G4560 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Fortnite/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.105s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.06-04.20.18:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.06-04.20.18:409][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.06-04.20.18:410][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.06-04.20.18:410][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.06-04.20.18:410][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.06-04.20.18:452][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.06-04.20.18:452][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.06-04.20.18:452][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.06-04.20.18:452][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.06-04.20.18:453][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.06-04.20.18:459][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-04.20.18:459][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.06-04.20.18:572][  0]LogHAL: Display: Platform has ~ 8 GB [8470962176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.06-04.20.18:576][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.06-04.20.18:576][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.06-04.20.18:576][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.06-04.20.18:576][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.06-04.20.18:576][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.06-04.20.18:577][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.06-04.20.18:578][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.06-04.20.18:591][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.06-04.20.18:591][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.06-04.20.18:624][  0]LogInit: Computer: DESKTOP-2IRICL2
+[2019.04.06-04.20.18:624][  0]LogInit: User: agentxisepic
+[2019.04.06-04.20.18:624][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.06-04.20.18:624][  0]LogInit: High frequency timer resolution =3.421871 MHz
+[2019.04.06-04.20.18:625][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.06-04.20.18:625][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.06-04.20.18:625][  0]LogMemory: Process Physical Memory: 102.89 MB used, 102.89 MB peak
+[2019.04.06-04.20.18:625][  0]LogMemory: Process Virtual Memory: 92.49 MB used, 92.49 MB peak
+[2019.04.06-04.20.18:625][  0]LogMemory: Physical Memory: 4735.82 MB used,  3342.72 MB free, 8078.54 MB total
+[2019.04.06-04.20.18:625][  0]LogMemory: Virtual Memory: 4636.92 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.04.06-04.20.19:149][  0]LogInit: Using OS detected language (en-US).
+[2019.04.06-04.20.19:149][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.06-04.20.19:225][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.06-04.20.20:156][  0]LogStreaming: Display: Took  0.994s to InitEngineTextLocalization.
+[2019.04.06-04.20.20:172][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.06-04.20.20:712][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.06-04.20.20:712][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.06-04.20.26:142][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.06-04.20.26:142][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.06-04.20.26:213][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.04.06-04.20.26:213][  0]LogD3D11RHI:       2988/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.06-04.20.26:240][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 610' (Feature Level 11_0)
+[2019.04.06-04.20.26:240][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.06-04.20.26:242][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.06-04.20.26:242][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.06-04.20.26:242][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.06-04.20.26:250][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.06-04.20.26:250][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.06-04.20.26:250][  0]LogWindows: EnumDisplayDevices:
+[2019.04.06-04.20.26:250][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.04.06-04.20.26:250][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.06-04.20.26:250][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.06-04.20.26:251][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.06-04.20.26:251][  0]LogWindows:    4. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.06-04.20.26:251][  0]LogWindows:    5. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.06-04.20.26:252][  0]LogWindows:    6. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.06-04.20.26:252][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.06-04.20.26:252][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.04.06-04.20.26:252][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2019.04.06-04.20.26:252][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2019.04.06-04.20.26:252][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.04.06-04.20.26:311][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.06-04.20.26:517][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.06-04.20.27:592][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.06-04.20.27:635][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.06-04.20.27:672][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.06-04.20.27:712][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.06-04.20.27:774][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.06-04.20.27:835][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.06-04.20.27:865][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.06-04.20.27:892][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.06-04.20.27:916][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:030][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.06-04.20.28:062][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.06-04.20.28:224][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.06-04.20.28:224][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.06-04.20.28:268][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.06-04.20.28:268][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.06-04.20.28:305][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.06-04.20.28:333][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.06-04.20.28:360][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.06-04.20.28:416][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.06-04.20.28:500][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.06-04.20.28:500][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.06-04.20.28:500][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.06-04.20.29:433][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (G:/Unreal Projects/TheAffliction/TheAffliction/Intermediate/Shaders/WorkingDirectory/13940/).
+[2019.04.06-04.20.29:433][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/agentxisepic/AppData/Local/Temp/UnrealShaderWorkingDir/772F936242BE7959665CFAA6635F6DD0/'.
+[2019.04.06-04.20.29:456][  0]LogXGEController: Cleaning working directory: C:/Users/agentxisepic/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.06-04.20.29:456][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.06-04.20.29:456][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.06-04.20.29:456][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.06-04.20.31:847][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.06-04.20.32:251][  0]LogDerivedDataCache: Loaded boot cache 0.40s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.06-04.20.32:251][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.06-04.20.32:251][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.06-04.20.32:251][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.06-04.20.32:251][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.06-04.20.32:251][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.06-04.20.32:398][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.06-04.20.32:398][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.06-04.20.32:398][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.06-04.20.32:411][  0]LogDerivedDataCache: Using Local data cache path C:/Users/agentxisepic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.06-04.20.32:411][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.06-04.20.32:411][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.06-04.20.32:473][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.06-04.20.32:551][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.06-04.20.32:624][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.06-04.20.33:382][  0]LogAssetRegistry: FAssetRegistry took 0.0353 seconds to start up
+[2019.04.06-04.20.36:194][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.06-04.20.37:332][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.06-04.20.37:479][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.06-04.20.37:479][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.06-04.20.37:503][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.06-04.20.37:503][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.06-04.20.37:803][  0]LogNetVersion: TheAffliction 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4273532765)
+[2019.04.06-04.20.41:321][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.252244 seconds
+[2019.04.06-04.20.41:341][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.06-04.20.41:341][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.06-04.20.41:341][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.06-04.20.53:067][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.06-04.20.53:112][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.06-04.20.55:929][  0]SourceControl: Source control is disabled
+[2019.04.06-04.20.55:944][  0]SourceControl: Source control is disabled
+[2019.04.06-04.20.56:075][  0]SourceControl: Source control is disabled
+[2019.04.06-04.20.56:105][  0]SourceControl: Source control is disabled
+[2019.04.06-04.20.57:634][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.06-04.20.57:932][  0]LogOcInput: OculusInput pre-init called
+[2019.04.06-04.20.58:974][  0]LogEngine: Initializing Engine...
+[2019.04.06-04.20.58:999][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.06-04.20.59:011][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.06-04.20.59:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.06-04.20.59:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.06-04.20.59:012][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.06-04.20.59:597][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.06-04.20.59:939][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.06-04.21.00:024][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.06-04.21.00:055][  0]LogInit: FAudioDevice initialized.
+[2019.04.06-04.21.00:055][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.06-04.21.00:203][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.06-04.21.00:213][  0]LogInit: Texture streaming: Enabled
+[2019.04.06-04.21.00:325][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.06-04.21.00:451][  0]LogInit: Transaction tracking system initialized
+[2019.04.06-04.21.00:844][  0]BlueprintLog: New page: Editor Load
+[2019.04.06-04.21.02:151][  0]LocalizationService: Localization service is disabled
+[2019.04.06-04.21.05:687][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/' took 0.06s
+[2019.04.06-04.21.05:687][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.06-04.21.05:687][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.06-04.21.05:687][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.06-04.21.05:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.06-04.21.05:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.06-04.21.05:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.06-04.21.05:687][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.06-04.21.08:002][  0]SourceControl: Source control is disabled
+[2019.04.06-04.21.08:031][  0]Cmd: MAP LOAD FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/Levels/TESTING/Prototyping.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.06-04.21.08:175][  0]LightingResults: New page: Lighting Build
+[2019.04.06-04.21.08:310][  0]MapCheck: New page: Map Check
+[2019.04.06-04.21.08:310][  0]LightingResults: New page: Lighting Build
+[2019.04.06-04.21.09:354][  0]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.06-04.21.09:825][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.06-04.21.09:931][  0]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.21.09:932][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.06-04.21.09:932][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.168ms to complete.
+[2019.04.06-04.21.09:932][  0]LogFileHelpers: Loading map 'Prototyping' took 1.926
+[2019.04.06-04.21.11:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.21.11:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.21.11:625][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.21.11:632][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.21.11:860][  0]LogCollectionManager: Loaded 0 collections in 0.000973 seconds
+[2019.04.06-04.21.12:199][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Collections/' took 0.01s
+[2019.04.06-04.21.12:199][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Developers/agentxisepic/Collections/' took 0.01s
+[2019.04.06-04.21.12:199][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Collections/' took 0.00s
+[2019.04.06-04.21.12:199][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.06-04.21.12:289][  0]LogContentBrowser: Native class hierarchy populated in 0.0883 seconds. Added 2663 classes and 624 folders.
+[2019.04.06-04.21.12:416][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.06-04.21.12:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:548][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:618][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:639][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:657][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:662][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:667][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:674][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:679][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:709][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:737][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:777][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:806][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:812][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:862][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.12:868][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.06-04.21.13:618][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.06-04.21.14:338][  0]LogSlate: Took 0.012977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.06-04.21.14:412][  0]LogSlate: Took 0.012996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.06-04.21.14:459][  0]LogSlate: Took 0.015070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.06-04.21.14:473][  0]LogSlate: Took 0.012875 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.04.06-04.21.14:942][  0]LogRenderer: Reallocating scene render targets to support 1160x580 Format 10 NumSamples 1 (Frame:1).
+[2019.04.06-04.21.15:487][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.06-04.21.15:487][  0]LogLoad: (Engine Initialization) Total time: 73.74 seconds
+[2019.04.06-04.21.15:487][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.06-04.21.15:988][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.06-04.21.16:395][  2]LogAssetRegistry: Asset discovery search completed in 43.0353 seconds
+[2019.04.06-04.21.16:425][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.06-04.21.16:425][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000371 seconds (updated 0 objects)
+[2019.04.06-04.21.16:665][  8]LogSlate: Took 0.024689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.06-04.24.12:069][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.06-04.24.13:358][125]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyAfflictionCharacter.MyAfflictionCharacter
+[2019.04.06-04.24.14:699][125]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0078 seconds. Added 117 classes and 0 folders.
+[2019.04.06-04.24.16:822][125]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP
+[2019.04.06-04.24.17:191][125]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/TESTING/Prototyping.Prototyping
+[2019.04.06-04.24.17:873][125]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/TESTING/InventorySlot.InventorySlot
+[2019.04.06-04.24.18:629][125]LogSlate: Took 0.058387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.06-04.24.19:455][126]LogSlate: Took 0.024840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.06-04.24.21:231][278]LogSlate: Window 'AfflictionPlayerController_BP' being destroyed
+[2019.04.06-04.25.27:580][708]BlueprintLog: New page: Compile Prototyping
+[2019.04.06-04.25.28:670][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.06-04.25.30:392][753]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping28A106744562ED6BEF894A85ECC057CF.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.06-04.25.31:722][893]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.06-04.25.31:785][893]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.25.31:808][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.06-04.25.31:864][893]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 4:25:31 PM)
+[2019.04.06-04.25.31:969][893]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.06-04.25.31:996][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026968s)
+[2019.04.06-04.25.31:997][893]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.06-04.25.32:008][893]LogPlayLevel: PIE: World Init took: (0.011356s)
+[2019.04.06-04.25.32:008][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.039272s)
+[2019.04.06-04.25.32:077][893]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.06-04.25.32:094][893]LogInit: FAudioDevice initialized.
+[2019.04.06-04.25.32:503][893]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.06-04.25.32:526][893]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-22.25.32
+[2019.04.06-04.25.32:547][893]LogWorld: Bringing up level for play took: 0.043228
+[2019.04.06-04.25.32:656][893]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.04.06-04.25.32:787][893]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping 0.653
+[2019.04.06-04.25.32:787][893]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.26.04:264][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.06-04.26.04:361][611]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.26.04:363][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.26.04:522][611]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.06-04.26.04:523][611]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.26.04:623][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.26.04:628][611]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.26.04:628][611]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.26.04:628][611]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.26.04:652][612]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.04.06-04.26.39:940][720]BlueprintLog: New page: Compile Prototyping
+[2019.04.06-04.26.40:697][762]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.06-04.26.40:741][762]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/PrototypingC057AD79424C72954D9B048499A123E7.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.06-04.26.41:694][866]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.06-04.26.41:721][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.26.41:722][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.06-04.26.41:722][866]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 4:26:41 PM)
+[2019.04.06-04.26.41:722][866]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.06-04.26.41:727][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004203s)
+[2019.04.06-04.26.41:728][866]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.06-04.26.41:728][866]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2019.04.06-04.26.41:728][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.005861s)
+[2019.04.06-04.26.41:779][866]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.06-04.26.41:796][866]LogInit: FAudioDevice initialized.
+[2019.04.06-04.26.41:831][866]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.06-04.26.41:832][866]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-22.26.41
+[2019.04.06-04.26.41:833][866]LogWorld: Bringing up level for play took: 0.001044
+[2019.04.06-04.26.41:847][866]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.287
+[2019.04.06-04.26.41:847][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.26.47:163][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.26.47:165][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.26.47:201][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.06-04.26.47:201][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.26.47:235][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.26.47:236][466]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.26.47:236][466]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.26.47:237][466]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.26.47:289][468]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.04.06-04.26.47:449][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.06-04.27.02:520][204]BlueprintLog: New page: Compile Prototyping
+[2019.04.06-04.27.03:579][320]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.06-04.27.03:608][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.27.03:609][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.06-04.27.03:609][320]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 4:27:03 PM)
+[2019.04.06-04.27.03:609][320]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.06-04.27.03:614][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004280s)
+[2019.04.06-04.27.03:615][320]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.06-04.27.03:615][320]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2019.04.06-04.27.03:615][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.005825s)
+[2019.04.06-04.27.03:665][320]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.06-04.27.03:681][320]LogInit: FAudioDevice initialized.
+[2019.04.06-04.27.03:712][320]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.06-04.27.03:713][320]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-22.27.03
+[2019.04.06-04.27.03:714][320]LogWorld: Bringing up level for play took: 0.001038
+[2019.04.06-04.27.03:727][320]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.406
+[2019.04.06-04.27.03:728][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.27.26:377][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.06-04.27.26:445][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.27.26:447][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.27.26:477][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.06-04.27.26:478][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.27.26:513][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.27.26:515][ 15]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.27.26:515][ 15]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.27.26:515][ 15]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.27.26:552][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.06-04.27.30:583][493]BlueprintLog: New page: Compile Prototyping
+[2019.04.06-04.27.31:053][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.06-04.27.31:094][494]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping3F750C9A4EC1A658BCA5218592CED934.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.06-04.29.30:873][654]BlueprintLog: New page: Compile InventorySlot
+[2019.04.06-04.30.38:949][512]LogSlate: Took 0.016016 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.06-04.30.42:629][944]BlueprintLog: New page: Compile InventorySlot
+[2019.04.06-04.31.19:372][154]BlueprintLog: New page: Compile InventorySlot
+[2019.04.06-04.31.20:330][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/InventorySlot" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/InventorySlot.uasset" SILENT=true
+[2019.04.06-04.31.20:403][193]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/InventorySlotB25DA0BD4D6FD405C12BB99B934A9B1E.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/InventorySlot.uasset'
+[2019.04.06-04.32.11:759][220]BlueprintLog: New page: Compile InventorySlot
+[2019.04.06-04.32.12:383][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/InventorySlot" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/InventorySlot.uasset" SILENT=true
+[2019.04.06-04.32.12:419][220]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/InventorySlot4BB79F3341A9F9BBBED7A6B8B3BDB058.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/InventorySlot.uasset'
+[2019.04.06-04.32.55:756][268]BlueprintLog: New page: Compile InventorySlot
+[2019.04.06-04.32.56:533][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/InventorySlot" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/InventorySlot.uasset" SILENT=true
+[2019.04.06-04.32.56:573][304]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/InventorySlotB1DC2F134D32154BD8A1DF9FB8F84179.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/InventorySlot.uasset'
+[2019.04.06-04.33.13:914][348]BlueprintLog: New page: Compile InventorySlot
+[2019.04.06-04.33.14:439][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/InventorySlot" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/InventorySlot.uasset" SILENT=true
+[2019.04.06-04.33.14:476][382]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/InventorySlot6301E71246EB6E16E4A7B78405F02639.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/InventorySlot.uasset'
+[2019.04.06-04.34.11:310][934]BlueprintLog: New page: Compile Prototyping
+[2019.04.06-04.34.11:737][934]LogBlueprint: Error: [Compiler Prototyping] The current value of the ' Name Of Item ' pin is invalid: 'Name Of Item' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.06-04.34.11:737][934]LogBlueprint: Error: [Compiler Prototyping] The current value (0) of the ' Number Of Items ' pin is invalid: 'Number Of Items' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.06-04.34.11:737][934]LogBlueprint: Error: [Compiler Prototyping] The current value of the ' Type Of Item ' pin is invalid: 'Type Of Item' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.06-04.34.11:979][934]LogBlueprint: Warning: [Compiler Prototyping] [0850.24] Compile of Prototyping failed. 3 Fatal Issue(s) 0 Warning(s) [in 667 ms] (/Game/UI/TESTING/Prototyping.Prototyping)
+[2019.04.06-04.34.12:832][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.06-04.34.12:883][ 30]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping02C37A854C6687EA78084DBAF64175DC.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.06-04.34.27:564][759]BlueprintLog: New page: Compile Prototyping
+[2019.04.06-04.34.27:584][759]LogBlueprint: Error: [Compiler Prototyping] The current value of the ' Name Of Item ' pin is invalid: 'Name Of Item' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.06-04.34.27:584][759]LogBlueprint: Error: [Compiler Prototyping] The current value (0) of the ' Number Of Items ' pin is invalid: 'Number Of Items' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.06-04.34.27:585][759]LogBlueprint: Error: [Compiler Prototyping] The current value of the ' Type Of Item ' pin is invalid: 'Type Of Item' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.06-04.34.27:642][759]LogBlueprint: Warning: [Compiler Prototyping] [0865.90] Compile of Prototyping failed. 3 Fatal Issue(s) 0 Warning(s) [in 78 ms] (/Game/UI/TESTING/Prototyping.Prototyping)
+[2019.04.06-04.34.29:707][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.06-04.34.29:751][  1]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping7639F91A4FD511CD669FAD983114A005.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.06-04.35.13:617][ 72]BlueprintLog: New page: Compile Prototyping
+[2019.04.06-04.35.13:653][ 72]LogBlueprint: Error: [Compiler AfflictionPlayerController_BP] The current value of the ' Name Of Item ' pin is invalid: 'Name Of Item' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.06-04.35.13:654][ 72]LogBlueprint: Error: [Compiler AfflictionPlayerController_BP] The current value (0) of the ' Number Of Items ' pin is invalid: 'Number Of Items' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.04.06-04.35.13:657][ 72]LogBlueprint: Warning: [Compiler AfflictionPlayerController_BP] [0911.91] Compile of AfflictionPlayerController_BP failed. 2 Fatal Issue(s) 0 Warning(s) [in 32 ms] (/Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP)
+[2019.04.06-04.35.14:326][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.06-04.35.14:746][125]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/PrototypingDAB0E8A74F5CDCA63E0B2FA348ACA83E.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.06-04.35.23:392][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.06-04.35.23:457][139]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping1D53F1AA43C029702A663CA35038C64C.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.06-04.36.46:793][232]BlueprintLog: New page: Compile AfflictionPlayerController_BP
+[2019.04.06-04.36.47:470][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AfflictionPlayerController_BP" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/AfflictionPlayerController_BP.uasset" SILENT=true
+[2019.04.06-04.36.47:862][280]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/AfflictionPlayerController_BP47A839F4484C6B4A449E93B0F975C13E.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/AfflictionPlayerController_BP.uasset'
+[2019.04.06-04.36.49:142][416]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.06-04.36.49:177][416]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.36.49:177][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.06-04.36.49:178][416]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 4:36:49 PM)
+[2019.04.06-04.36.49:178][416]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.06-04.36.49:184][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006138s)
+[2019.04.06-04.36.49:185][416]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.06-04.36.49:186][416]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2019.04.06-04.36.49:186][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.008238s)
+[2019.04.06-04.36.49:251][416]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.06-04.36.49:273][416]LogInit: FAudioDevice initialized.
+[2019.04.06-04.36.49:305][416]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.06-04.36.49:306][416]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-22.36.49
+[2019.04.06-04.36.49:307][416]LogWorld: Bringing up level for play took: 0.001072
+[2019.04.06-04.36.49:322][416]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.812
+[2019.04.06-04.36.49:322][416]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.37.19:529][958]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.37.19:531][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.37.19:572][958]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.06-04.37.19:573][958]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.37.19:612][958]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.06-04.37.19:614][958]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.37.19:615][958]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.37.19:615][958]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.37.19:633][959]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.06-04.37.20:807][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.06-04.38.41:699][732]BlueprintLog: New page: Compile AfflictionPlayerController_BP
+[2019.04.06-04.38.42:417][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AfflictionPlayerController_BP" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/AfflictionPlayerController_BP.uasset" SILENT=true
+[2019.04.06-04.38.42:974][789]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/AfflictionPlayerController_BP9D598F2E4C0D1C38648AD59C0D4C5485.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/AfflictionPlayerController_BP.uasset'
+[2019.04.06-04.38.44:226][931]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.06-04.38.44:268][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.38.44:269][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.06-04.38.44:269][931]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 4:38:44 PM)
+[2019.04.06-04.38.44:269][931]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.06-04.38.44:273][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004419s)
+[2019.04.06-04.38.44:274][931]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.06-04.38.44:275][931]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2019.04.06-04.38.44:275][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.005991s)
+[2019.04.06-04.38.44:331][931]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.06-04.38.44:349][931]LogInit: FAudioDevice initialized.
+[2019.04.06-04.38.44:378][931]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.06-04.38.44:379][931]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-22.38.44
+[2019.04.06-04.38.44:380][931]LogWorld: Bringing up level for play took: 0.000978
+[2019.04.06-04.38.44:394][931]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping 0.26
+[2019.04.06-04.38.44:394][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.06-04.38.45:500][ 55]LogTemp: Warning: Item added: 1
+[2019.04.06-04.38.45:500][ 55]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.06-04.38.49:094][479]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.06-04.38.49:094][479]LogScript: Warning: Attempted to access MyMedical_Item2_8 via property CallFunc_Array_Get_Item, but MyMedical_Item2_8 is pending kill
+	AfflictionPlayerController_BP_C /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping:PersistentLevel.AfflictionPlayerController_BP_C_0
+	Function /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP_C:ExecuteUbergraph_AfflictionPlayerController_BP:0252
+[2019.04.06-04.38.49:103][479]PIE: Error: Blueprint Runtime Error: "Attempted to access MyMedical_Item2_8 via property CallFunc_Array_Get_Item, but MyMedical_Item2_8 is pending kill". Blueprint:  AfflictionPlayerController_BP Function:  Execute Ubergraph Affliction Player Controller BP Graph:  EventGraph Node:  Add Item to Inventory
+[2019.04.06-04.38.49:104][479]LogScript: Warning: Attempted to access MyMedical_Item2_8 via property CallFunc_Array_Get_Item, but MyMedical_Item2_8 is pending kill
+	AfflictionPlayerController_BP_C /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping:PersistentLevel.AfflictionPlayerController_BP_C_0
+	Function /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP_C:ExecuteUbergraph_AfflictionPlayerController_BP:0284
+[2019.04.06-04.38.49:104][479]PIE: Error: Blueprint Runtime Error: "Attempted to access MyMedical_Item2_8 via property CallFunc_Array_Get_Item, but MyMedical_Item2_8 is pending kill". Blueprint:  AfflictionPlayerController_BP Function:  Execute Ubergraph Affliction Player Controller BP Graph:  EventGraph Node:  Add Item to Inventory
+[2019.04.06-04.38.49:105][479]LogScript: Warning: Attempted to access MyMedical_Item2_8 via property CallFunc_Array_Get_Item, but MyMedical_Item2_8 is pending kill
+	AfflictionPlayerController_BP_C /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping:PersistentLevel.AfflictionPlayerController_BP_C_0
+	Function /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP_C:ExecuteUbergraph_AfflictionPlayerController_BP:02B6
+[2019.04.06-04.38.49:105][479]PIE: Error: Blueprint Runtime Error: "Attempted to access MyMedical_Item2_8 via property CallFunc_Array_Get_Item, but MyMedical_Item2_8 is pending kill". Blueprint:  AfflictionPlayerController_BP Function:  Execute Ubergraph Affliction Player Controller BP Graph:  EventGraph Node:  Add Item to Inventory
+[2019.04.06-04.38.50:288][621]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.06-04.38.50:289][621]LogScript: Warning: Attempted to access MyMedical_Item3_4 via property CallFunc_Array_Get_Item, but MyMedical_Item3_4 is pending kill
+	AfflictionPlayerController_BP_C /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping:PersistentLevel.AfflictionPlayerController_BP_C_0
+	Function /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP_C:ExecuteUbergraph_AfflictionPlayerController_BP:0252
+[2019.04.06-04.38.50:289][621]PIE: Error: Blueprint Runtime Error: "Attempted to access MyMedical_Item3_4 via property CallFunc_Array_Get_Item, but MyMedical_Item3_4 is pending kill". Blueprint:  AfflictionPlayerController_BP Function:  Execute Ubergraph Affliction Player Controller BP Graph:  EventGraph Node:  Add Item to Inventory
+[2019.04.06-04.38.50:290][621]LogScript: Warning: Attempted to access MyMedical_Item3_4 via property CallFunc_Array_Get_Item, but MyMedical_Item3_4 is pending kill
+	AfflictionPlayerController_BP_C /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping:PersistentLevel.AfflictionPlayerController_BP_C_0
+	Function /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP_C:ExecuteUbergraph_AfflictionPlayerController_BP:0284
+[2019.04.06-04.38.50:290][621]PIE: Error: Blueprint Runtime Error: "Attempted to access MyMedical_Item3_4 via property CallFunc_Array_Get_Item, but MyMedical_Item3_4 is pending kill". Blueprint:  AfflictionPlayerController_BP Function:  Execute Ubergraph Affliction Player Controller BP Graph:  EventGraph Node:  Add Item to Inventory
+[2019.04.06-04.38.50:291][621]LogScript: Warning: Attempted to access MyMedical_Item3_4 via property CallFunc_Array_Get_Item, but MyMedical_Item3_4 is pending kill
+	AfflictionPlayerController_BP_C /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping:PersistentLevel.AfflictionPlayerController_BP_C_0
+	Function /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP_C:ExecuteUbergraph_AfflictionPlayerController_BP:02B6
+[2019.04.06-04.38.50:291][621]PIE: Error: Blueprint Runtime Error: "Attempted to access MyMedical_Item3_4 via property CallFunc_Array_Get_Item, but MyMedical_Item3_4 is pending kill". Blueprint:  AfflictionPlayerController_BP Function:  Execute Ubergraph Affliction Player Controller BP Graph:  EventGraph Node:  Add Item to Inventory
+[2019.04.06-04.38.51:079][714]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.06-04.38.51:079][714]LogTemp: Warning: Item added: 2
+[2019.04.06-04.38.51:079][714]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.06-04.38.53:781][ 37]LogTemp: Warning: Item at slot 1: Med
+There are 8 available
+[2019.04.06-04.38.53:781][ 37]LogTemp: Warning: Item at slot 2: Med
+There are 4 available
+[2019.04.06-04.39.15:195][578]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.39.15:195][578]LogTemp: Warning: DeconstructedAItem
+[2019.04.06-04.39.22:289][424]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:297][425]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:305][426]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:313][427]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:322][428]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:330][429]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:339][430]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:346][431]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:354][432]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:363][433]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:371][434]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:379][435]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:388][436]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:396][437]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:404][438]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:413][439]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:421][440]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:430][441]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:438][442]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:438][442]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:446][443]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:446][443]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:454][444]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:455][444]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:463][445]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:463][445]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:471][446]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:471][446]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:480][447]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:480][447]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:488][448]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:488][448]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:496][449]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:496][449]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:505][450]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:505][450]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.22:513][451]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:521][452]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:530][453]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:538][454]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:546][455]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:555][456]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:563][457]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:571][458]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:580][459]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:588][460]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:597][461]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:605][462]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:614][463]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:625][464]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:633][465]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:642][466]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:650][467]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:658][468]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:667][469]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:675][470]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:683][471]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:692][472]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:700][473]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:708][474]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:716][475]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:724][476]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:733][477]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:741][478]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:749][479]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:758][480]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:766][481]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:774][482]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:783][483]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:783][483]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:791][484]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:791][484]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:799][485]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:800][485]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:808][486]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:808][486]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:816][487]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:816][487]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:824][488]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:825][488]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:833][489]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.22:833][489]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:841][490]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:850][491]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:858][492]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:866][493]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:875][494]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:883][495]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:891][496]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:900][497]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:908][498]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:916][499]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:925][500]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:933][501]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:941][502]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:950][503]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:958][504]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:966][505]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:975][506]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:983][507]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.22:992][508]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:000][509]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:008][510]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:017][511]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:025][512]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:033][513]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:042][514]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:050][515]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:058][516]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:067][517]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:075][518]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:083][519]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:091][520]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:099][521]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:107][522]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:116][523]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:124][524]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:124][524]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:133][525]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:133][525]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:141][526]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:142][526]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:149][527]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:150][527]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:158][528]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:158][528]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:166][529]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:166][529]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:174][530]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:175][530]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:183][531]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:183][531]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:191][532]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:191][532]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:200][533]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:200][533]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:208][534]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:208][534]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:216][535]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:216][535]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:225][536]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:225][536]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:233][537]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:233][537]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:241][538]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:241][538]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:250][539]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:250][539]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:258][540]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:266][541]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:275][542]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:283][543]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:367][553]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:375][554]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:383][555]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:392][556]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:400][557]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:408][558]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:417][559]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:424][560]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:433][561]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:433][561]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:441][562]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:441][562]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:449][563]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:450][563]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:458][564]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:458][564]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:466][565]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:466][565]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:475][566]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:475][566]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:483][567]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:483][567]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.23:491][568]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:500][569]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:508][570]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:516][571]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:525][572]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:533][573]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:541][574]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:550][575]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:558][576]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:566][577]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:575][578]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:583][579]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:591][580]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:600][581]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:608][582]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:617][583]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:625][584]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:635][585]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:644][586]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:652][587]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:661][588]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:669][589]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:677][590]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:686][591]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:694][592]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:703][593]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:711][594]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:719][595]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:728][596]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.23:786][603]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:794][604]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:803][605]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:803][605]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:811][606]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:811][606]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:819][607]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:819][607]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:827][608]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:827][608]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:835][609]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:835][609]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:844][610]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:844][610]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:852][611]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:852][611]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:861][612]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:861][612]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:869][613]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:869][613]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:878][614]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:878][614]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:885][615]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:886][615]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:895][616]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:895][616]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:903][617]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:903][617]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:911][618]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:911][618]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:920][619]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:920][619]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:928][620]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:928][620]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:936][621]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:937][621]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:945][622]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:945][622]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:953][623]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:953][623]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:961][624]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:962][624]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:970][625]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:971][625]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:978][626]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:978][626]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:987][627]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:987][627]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.23:995][628]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.23:995][628]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.24:003][629]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.24:003][629]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.24:012][630]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.24:020][631]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:209][773]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:217][774]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:260][775]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:272][776]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:280][777]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:295][778]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:303][779]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:311][780]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:312][780]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:320][781]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:320][781]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:328][782]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:328][782]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:336][783]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:336][783]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:345][784]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:345][784]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:353][785]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:353][785]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:361][786]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:362][786]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:370][787]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:370][787]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:378][788]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:378][788]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.25:387][789]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:395][790]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:403][791]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:412][792]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:420][793]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:428][794]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:437][795]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:445][796]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:453][797]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:462][798]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:470][799]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:478][800]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:487][801]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:495][802]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:503][803]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:512][804]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:520][805]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:528][806]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:537][807]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:545][808]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:554][809]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:562][810]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:570][811]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:579][812]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:587][813]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:587][813]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:595][814]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:596][814]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:604][815]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:604][815]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:612][816]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:612][816]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:620][817]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:621][817]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:629][818]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:629][818]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:637][819]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:637][819]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:645][820]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:645][820]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:653][821]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:653][821]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:661][822]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:661][822]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:673][823]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.25:673][823]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:681][824]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:689][825]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:697][826]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:705][827]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:714][828]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:723][829]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:731][830]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:739][831]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:747][832]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:756][833]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:764][834]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:764][834]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:772][835]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:773][835]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:781][836]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:781][836]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:789][837]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:790][837]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:797][838]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:797][838]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:806][839]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:806][839]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:814][840]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:814][840]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:822][841]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:823][841]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:831][842]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:831][842]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:839][843]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:839][843]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:848][844]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:848][844]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:856][845]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:856][845]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.25:864][846]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:873][847]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:881][848]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:890][849]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:898][850]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:907][851]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:915][852]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:924][853]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:932][854]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:940][855]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:948][856]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:957][857]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:965][858]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:974][859]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:982][860]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:990][861]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.25:998][862]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:007][863]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:014][864]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:022][865]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:031][866]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:039][867]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:047][868]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:056][869]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:064][870]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:073][871]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:081][872]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:089][873]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:098][874]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:106][875]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:114][876]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:123][877]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:131][878]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:140][879]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:148][880]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:156][881]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:164][882]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:248][892]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:256][893]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:264][894]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:273][895]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:281][896]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:290][897]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:298][898]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:307][899]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:315][900]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:323][901]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:331][902]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:340][903]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:348][904]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:356][905]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:365][906]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:373][907]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:381][908]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:390][909]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:398][910]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:407][911]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:415][912]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:423][913]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:432][914]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:440][915]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:448][916]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:457][917]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:465][918]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:474][919]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:474][919]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:482][920]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:482][920]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:490][921]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:490][921]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:498][922]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:498][922]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:507][923]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:507][923]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:515][924]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:515][924]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:524][925]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:524][925]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:531][926]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.26:531][926]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:539][927]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:548][928]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:556][929]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:564][930]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:573][931]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:581][932]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:590][933]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:598][934]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:606][935]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:614][936]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:623][937]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:631][938]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:640][939]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:640][939]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:648][940]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:648][940]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:656][941]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:656][941]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:664][942]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:665][942]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:673][943]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:673][943]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:682][944]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:682][944]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:692][945]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:693][945]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:700][946]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:700][946]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:709][947]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:709][947]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:717][948]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:717][948]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:725][949]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:726][949]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:734][950]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:742][951]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:751][952]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:759][953]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:767][954]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:775][955]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:784][956]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:792][957]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:801][958]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:809][959]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:817][960]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:826][961]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:834][962]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:842][963]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:851][964]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:859][965]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:867][966]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:876][967]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:884][968]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:893][969]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:900][970]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:908][971]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:917][972]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:925][973]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:933][974]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.26:975][979]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:983][980]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.26:992][981]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:000][982]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:008][983]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:017][984]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:025][985]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:034][986]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:042][987]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:050][988]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:059][989]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:067][990]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:075][991]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:084][992]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:092][993]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:092][993]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:100][994]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:101][994]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:109][995]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:109][995]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:117][996]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:117][996]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:125][997]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:126][997]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:134][998]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:134][998]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:143][999]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:151][  0]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:159][  1]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:167][  2]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:176][  3]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:184][  4]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:192][  5]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:201][  6]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:209][  7]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:217][  8]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:226][  9]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:234][ 10]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:243][ 11]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:251][ 12]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:259][ 13]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:267][ 14]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:276][ 15]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:284][ 16]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:292][ 17]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:300][ 18]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:308][ 19]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:317][ 20]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:325][ 21]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:333][ 22]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:342][ 23]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:342][ 23]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:350][ 24]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:350][ 24]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:359][ 25]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:359][ 25]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:367][ 26]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:367][ 26]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:376][ 27]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:376][ 27]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:384][ 28]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:384][ 28]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:393][ 29]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:393][ 29]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:401][ 30]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:410][ 31]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:418][ 32]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:426][ 33]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:434][ 34]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:443][ 35]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:451][ 36]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:459][ 37]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:468][ 38]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:476][ 39]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:484][ 40]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:493][ 41]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:501][ 42]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:510][ 43]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:510][ 43]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:518][ 44]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:518][ 44]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:526][ 45]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:526][ 45]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.27:535][ 46]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:543][ 47]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:551][ 48]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:559][ 49]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:568][ 50]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:576][ 51]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:584][ 52]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:593][ 53]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:601][ 54]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:609][ 55]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:618][ 56]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:626][ 57]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:634][ 58]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:643][ 59]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:651][ 60]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:659][ 61]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:667][ 62]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:676][ 63]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:684][ 64]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:693][ 65]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:702][ 66]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:711][ 67]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:719][ 68]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:727][ 69]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:735][ 70]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:744][ 71]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:753][ 72]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:761][ 73]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:769][ 74]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:778][ 75]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:786][ 76]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:795][ 77]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:795][ 77]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:802][ 78]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:802][ 78]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:810][ 79]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:810][ 79]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:818][ 80]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:819][ 80]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:827][ 81]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:827][ 81]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:835][ 82]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:835][ 82]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:844][ 83]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:844][ 83]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:852][ 84]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:853][ 84]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:861][ 85]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:861][ 85]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:869][ 86]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.27:869][ 86]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:878][ 87]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:886][ 88]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:894][ 89]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:903][ 90]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:911][ 91]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:919][ 92]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:928][ 93]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:936][ 94]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:936][ 94]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:944][ 95]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:944][ 95]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:953][ 96]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:953][ 96]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:961][ 97]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:961][ 97]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:969][ 98]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:970][ 98]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:978][ 99]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:978][ 99]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:986][100]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:986][100]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.27:993][101]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.27:994][101]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.28:002][102]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:002][102]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.28:010][103]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:019][104]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:027][105]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:035][106]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:044][107]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:052][108]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:060][109]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:069][110]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:077][111]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:085][112]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:094][113]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:102][114]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:111][115]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:119][116]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:127][117]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:136][118]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:144][119]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:152][120]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:161][121]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:169][122]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:177][123]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:178][123]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:186][124]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:186][124]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:194][125]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:194][125]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:202][126]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:203][126]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:211][127]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:211][127]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:219][128]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.28:219][128]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:228][129]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:236][130]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:244][131]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:253][132]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:261][133]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:269][134]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:278][135]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:286][136]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:294][137]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:303][138]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:311][139]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:319][140]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:328][141]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:328][141]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:336][142]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:336][142]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:344][143]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:345][143]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:353][144]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:353][144]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:361][145]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:361][145]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:369][146]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:369][146]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:377][147]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:377][147]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:385][148]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:385][148]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:394][149]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:394][149]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:402][150]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:402][150]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:410][151]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:411][151]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.28:419][152]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:427][153]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:435][154]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:444][155]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:452][156]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:461][157]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:469][158]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:477][159]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:485][160]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:494][161]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.28:502][162]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:030][225]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:038][226]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:046][227]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:046][227]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:055][228]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:055][228]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:063][229]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:063][229]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:071][230]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:071][230]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:080][231]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:080][231]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:088][232]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:088][232]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:096][233]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:096][233]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:105][234]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:105][234]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:112][235]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:112][235]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:121][236]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:121][236]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:129][237]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:129][237]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:137][238]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:138][238]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:147][239]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:147][239]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:155][240]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:155][240]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:164][241]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:165][241]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:173][242]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:173][242]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:181][243]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:182][243]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:189][244]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:190][244]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:198][245]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:198][245]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:206][246]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:206][246]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:214][247]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:215][247]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:223][248]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:223][248]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:231][249]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:231][249]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:239][250]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:240][250]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:248][251]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:248][251]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:256][252]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:256][252]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:265][253]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:265][253]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:273][254]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:273][254]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:281][255]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:282][255]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:290][256]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:290][256]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.29:298][257]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:305][258]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:314][259]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:322][260]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:330][261]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:339][262]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:347][263]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:355][264]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:364][265]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:372][266]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:381][267]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:389][268]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:397][269]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:406][270]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:414][271]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:422][272]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:431][273]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:439][274]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:448][275]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:448][275]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:456][276]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:456][276]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:464][277]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:464][277]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:472][278]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.29:473][278]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:481][279]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:489][280]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:498][281]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:506][282]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:514][283]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:523][284]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:531][285]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:539][286]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:548][287]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:548][287]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:556][288]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:556][288]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:564][289]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:565][289]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:573][290]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:573][290]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.29:581][291]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:589][292]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:598][293]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:606][294]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:615][295]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:623][296]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:631][297]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:640][298]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.29:648][299]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:110][354]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:118][355]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:127][356]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:135][357]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:144][358]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:152][359]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:161][360]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:169][361]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:177][362]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:185][363]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:194][364]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:202][365]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:211][366]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:219][367]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:228][368]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:236][369]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:244][370]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:252][371]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:260][372]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:269][373]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:277][374]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:285][375]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:294][376]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:302][377]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:310][378]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:318][379]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:327][380]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:335][381]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:343][382]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:352][383]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:360][384]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:368][385]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:378][386]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:386][387]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:394][388]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:402][389]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:411][390]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:419][391]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:428][392]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:435][393]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:443][394]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.30:494][400]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:502][401]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:503][401]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:511][402]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:511][402]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:519][403]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:519][403]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:527][404]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:528][404]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:536][405]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:536][405]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:545][406]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:545][406]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:552][407]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:553][407]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:562][408]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:562][408]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:569][409]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:569][409]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:578][410]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:578][410]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:586][411]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:586][411]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:594][412]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:594][412]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:603][413]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:603][413]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:612][414]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:612][414]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:620][415]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:620][415]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:627][416]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:628][416]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:636][417]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:636][417]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.30:646][418]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:653][419]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:662][420]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:670][421]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:678][422]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:687][423]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:695][424]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:704][425]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:713][426]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:721][427]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:729][428]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:737][429]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:750][430]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:759][431]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.30:767][432]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:200][484]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:208][485]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:217][486]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:225][487]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:233][488]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:242][489]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:242][489]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:250][490]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:250][490]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:258][491]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:259][491]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:267][492]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:275][493]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:284][494]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:292][495]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:300][496]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:309][497]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:317][498]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:325][499]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:334][500]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:342][501]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:350][502]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:359][503]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:367][504]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:374][505]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:383][506]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:391][507]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:399][508]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:408][509]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:416][510]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:425][511]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:433][512]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:433][512]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:441][513]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:441][513]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:450][514]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:450][514]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:458][515]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:458][515]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:466][516]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:466][516]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:475][517]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:475][517]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:483][518]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:483][518]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:491][519]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.31:492][519]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:500][520]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:508][521]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:508][521]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:516][522]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:517][522]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.31:525][523]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:533][524]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:542][525]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:550][526]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:558][527]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:567][528]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:575][529]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:583][530]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:592][531]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:600][532]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:608][533]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:617][534]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:625][535]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:633][536]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:642][537]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:650][538]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:659][539]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:667][540]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.31:675][541]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.32:505][640]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:514][641]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:522][642]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:530][643]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:539][644]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:547][645]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:555][646]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:564][647]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:572][648]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:581][649]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:589][650]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:597][651]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:606][652]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:614][653]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:622][654]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:623][654]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:631][655]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:631][655]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:639][656]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:639][656]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:647][657]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:648][657]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:656][658]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:656][658]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:664][659]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:664][659]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:672][660]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:673][660]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:681][661]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:681][661]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:689][662]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:689][662]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:698][663]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:698][663]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:706][664]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:706][664]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:714][665]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:714][665]LogTemp: Warning: Moving the pawn Forward
+[2019.04.06-04.39.32:723][666]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:731][667]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:739][668]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:748][669]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:756][670]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:764][671]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:773][672]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:782][673]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:792][674]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:799][675]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:808][676]LogTemp: Warning: Moving the pawn Left
+[2019.04.06-04.39.32:957][694]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.32:966][695]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.32:966][695]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.32:974][696]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.32:974][696]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.32:982][697]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.32:982][697]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.32:991][698]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.32:991][698]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.32:999][699]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.32:999][699]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.33:007][700]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.33:008][700]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.33:016][701]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.33:016][701]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.33:024][702]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.33:024][702]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.33:032][703]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.33:033][703]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.33:041][704]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.33:041][704]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.33:049][705]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.33:049][705]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.33:058][706]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.33:058][706]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.33:066][707]LogTemp: Warning: Moving the pawn Right
+[2019.04.06-04.39.33:066][707]LogTemp: Warning: Moving the pawn Backward
+[2019.04.06-04.39.33:074][708]LogTemp: Warning: Moving the pawn Backward

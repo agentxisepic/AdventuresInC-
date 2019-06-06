@@ -1,0 +1,1023 @@
+﻿Log file open, 04/02/19 21:49:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheAffliction
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.215276
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.152s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Pentium(R) CPU G4560 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Fortnite/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.03-03.49.16:426][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.03-03.49.16:426][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.03-03.49.16:426][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.49.16:426][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.03-03.49.16:426][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.03-03.49.16:426][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2019.04.03-03.49.16:426][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.49.16:426][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.03-03.49.16:427][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.49.16:427][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.49.16:429][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:429][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-03.49.16:429][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-03.49.16:430][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-03.49.16:430][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-03.49.16:431][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.03-03.49.16:442][  0]LogHAL: Display: Platform has ~ 8 GB [8470962176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.03-03.49.16:442][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.03-03.49.16:442][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.03-03.49.16:442][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:442][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-03.49.16:442][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-03.49.16:442][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:442][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-03.49.16:442][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:442][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-03.49.16:442][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-03.49.16:442][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-03.49.16:443][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.03-03.49.16:444][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.03-03.49.16:444][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-03.49.16:444][  0]LogInit: Computer: DESKTOP-2IRICL2
+[2019.04.03-03.49.16:444][  0]LogInit: User: agentxisepic
+[2019.04.03-03.49.16:444][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.03-03.49.16:444][  0]LogInit: High frequency timer resolution =3.421868 MHz
+[2019.04.03-03.49.16:444][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.03-03.49.16:444][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.03-03.49.16:444][  0]LogMemory: Process Physical Memory: 102.59 MB used, 102.59 MB peak
+[2019.04.03-03.49.16:444][  0]LogMemory: Process Virtual Memory: 92.79 MB used, 92.79 MB peak
+[2019.04.03-03.49.16:444][  0]LogMemory: Physical Memory: 4398.16 MB used,  3680.38 MB free, 8078.54 MB total
+[2019.04.03-03.49.16:444][  0]LogMemory: Virtual Memory: 4636.92 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.04.03-03.49.16:466][  0]LogInit: Using OS detected language (en-US).
+[2019.04.03-03.49.16:466][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.03-03.49.16:467][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.03-03.49.16:844][  0]LogStreaming: Display: Took  0.378s to InitEngineTextLocalization.
+[2019.04.03-03.49.16:844][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.03-03.49.16:877][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.03-03.49.16:877][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.03-03.49.17:263][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-03.49.17:263][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.03-03.49.17:327][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.04.03-03.49.17:327][  0]LogD3D11RHI:       2988/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.03-03.49.17:340][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 610' (Feature Level 11_0)
+[2019.04.03-03.49.17:340][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.03-03.49.17:342][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.03-03.49.17:342][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.03-03.49.17:342][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.03-03.49.17:348][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.03-03.49.17:348][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.03-03.49.17:348][  0]LogWindows: EnumDisplayDevices:
+[2019.04.03-03.49.17:348][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.04.03-03.49.17:348][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.03-03.49.17:348][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.03-03.49.17:349][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.03-03.49.17:349][  0]LogWindows:    4. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.03-03.49.17:349][  0]LogWindows:    5. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.03-03.49.17:350][  0]LogWindows:    6. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.03-03.49.17:350][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.03-03.49.17:350][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.04.03-03.49.17:350][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2019.04.03-03.49.17:350][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2019.04.03-03.49.17:350][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.04.03-03.49.17:391][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.03-03.49.17:408][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.03-03.49.17:782][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.03-03.49.17:794][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.03-03.49.17:806][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.03-03.49.17:817][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.03-03.49.17:829][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.03-03.49.17:841][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.03-03.49.17:852][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.03-03.49.17:863][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.03-03.49.17:870][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:938][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-03.49.17:939][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.03-03.49.17:997][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-03.49.17:997][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-03.49.18:018][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-03.49.18:018][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-03.49.18:030][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.03-03.49.18:042][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.03-03.49.18:054][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.03-03.49.18:070][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.03-03.49.18:125][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.03-03.49.18:125][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.03-03.49.18:125][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.03-03.49.18:180][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (G:/Unreal Projects/TheAffliction/TheAffliction/Intermediate/Shaders/WorkingDirectory/1108/).
+[2019.04.03-03.49.18:180][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/agentxisepic/AppData/Local/Temp/UnrealShaderWorkingDir/43F9FB07484158DDCD3C5DAB06574DEF/'.
+[2019.04.03-03.49.18:182][  0]LogXGEController: Cleaning working directory: C:/Users/agentxisepic/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.03-03.49.18:182][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.03-03.49.18:182][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.03-03.49.18:182][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.03-03.49.18:742][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.03-03.49.18:797][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.03-03.49.18:797][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.03-03.49.18:797][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.03-03.49.18:797][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.03-03.49.18:797][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-03.49.18:797][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.03-03.49.18:812][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.03-03.49.18:812][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-03.49.18:812][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.03-03.49.18:824][  0]LogDerivedDataCache: Using Local data cache path C:/Users/agentxisepic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.03-03.49.18:824][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.03-03.49.18:824][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.03-03.49.18:845][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.03-03.49.18:847][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.03-03.49.18:847][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.03-03.49.18:943][  0]LogAssetRegistry: FAssetRegistry took 0.0326 seconds to start up
+[2019.04.03-03.49.19:249][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-03.49.19:436][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.03-03.49.19:439][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.03-03.49.19:439][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.03-03.49.19:440][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.03-03.49.19:440][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.03-03.49.19:452][  0]LogNetVersion: TheAffliction 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4273532765)
+[2019.04.03-03.49.19:984][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.109032 seconds
+[2019.04.03-03.49.19:990][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.03-03.49.19:990][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.04.03-03.49.19:990][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.03-03.49.21:104][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.03-03.49.21:117][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.03-03.49.21:947][  0]SourceControl: Source control is disabled
+[2019.04.03-03.49.21:948][  0]SourceControl: Source control is disabled
+[2019.04.03-03.49.21:949][  0]SourceControl: Source control is disabled
+[2019.04.03-03.49.21:950][  0]SourceControl: Source control is disabled
+[2019.04.03-03.49.22:148][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.03-03.49.22:262][  0]LogOcInput: OculusInput pre-init called
+[2019.04.03-03.49.22:388][  0]LogEngine: Initializing Engine...
+[2019.04.03-03.49.22:389][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-03.49.22:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.03-03.49.22:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-03.49.22:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.03-03.49.22:390][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-03.49.22:631][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.03-03.49.22:644][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.03-03.49.22:730][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-03.49.22:751][  0]LogInit: FAudioDevice initialized.
+[2019.04.03-03.49.22:751][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.03-03.49.22:886][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.03-03.49.22:889][  0]LogInit: Texture streaming: Enabled
+[2019.04.03-03.49.22:903][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.03-03.49.22:903][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={0C68665D-45A3-4E60-6048-878C4220A9C2}
+[2019.04.03-03.49.22:913][  0]LogInit: Transaction tracking system initialized
+[2019.04.03-03.49.22:932][  0]BlueprintLog: New page: Editor Load
+[2019.04.03-03.49.22:987][  0]LocalizationService: Localization service is disabled
+[2019.04.03-03.49.23:611][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/' took 0.01s
+[2019.04.03-03.49.23:611][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.03-03.49.23:611][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.03-03.49.23:611][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.03-03.49.23:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.03-03.49.23:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-03.49.23:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.03-03.49.23:611][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-03.49.23:752][  0]SourceControl: Source control is disabled
+[2019.04.03-03.49.23:752][  0]Cmd: MAP LOAD FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/Levels/TESTING/Prototyping.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.03-03.49.23:752][  0]LightingResults: New page: Lighting Build
+[2019.04.03-03.49.23:755][  0]MapCheck: New page: Map Check
+[2019.04.03-03.49.23:755][  0]LightingResults: New page: Lighting Build
+[2019.04.03-03.49.23:920][  0]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.03-03.49.23:929][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.03-03.49.23:955][  0]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.49.23:955][  0]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.49.23:955][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.03-03.49.23:955][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2019.04.03-03.49.23:955][  0]LogFileHelpers: Loading map 'Prototyping' took 0.203
+[2019.04.03-03.49.24:041][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.49.24:047][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.49.24:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.49.24:061][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.49.24:066][  0]LogCollectionManager: Loaded 0 collections in 0.000935 seconds
+[2019.04.03-03.49.24:080][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Collections/' took 0.01s
+[2019.04.03-03.49.24:080][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Developers/agentxisepic/Collections/' took 0.00s
+[2019.04.03-03.49.24:080][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Collections/' took 0.00s
+[2019.04.03-03.49.24:080][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.03-03.49.24:089][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2663 classes and 624 folders.
+[2019.04.03-03.49.24:094][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.03-03.49.24:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:096][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:097][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:100][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:102][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:103][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:104][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:108][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:109][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-03.49.24:159][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.03-03.49.24:231][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.03-03.49.24:238][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.03-03.49.24:242][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.03-03.49.24:243][  0]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.04.03-03.49.24:382][  0]LogRenderer: Reallocating scene render targets to support 1160x580 Format 10 NumSamples 1 (Frame:1).
+[2019.04.03-03.49.24:545][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.03-03.49.24:545][  0]LogLoad: (Engine Initialization) Total time: 10.15 seconds
+[2019.04.03-03.49.24:545][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.03-03.49.24:608][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.03-03.49.24:663][  1]LogAssetRegistry: Asset discovery search completed in 5.7419 seconds
+[2019.04.03-03.49.24:664][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.03-03.49.24:664][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000211 seconds (updated 0 objects)
+[2019.04.03-03.49.25:616][ 79]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-03.49.26:321][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-03.49.29:748][460]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP
+[2019.04.03-03.49.30:248][460]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.04.03-03.49.31:158][460]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.03-03.49.31:265][461]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.03-03.49.32:387][567]LogSlate: Window 'AfflictionPlayerController_BP' being destroyed
+[2019.04.03-03.51.02:467][210]Candidate modules for hot reload:
+[2019.04.03-03.51.02:467][210]  TheAffliction
+[2019.04.03-03.51.02:468][210]Launching UnrealBuildTool... [D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheAffliction,5637 Win64 Development -TargetType=Editor -Project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -canskiplink "G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" ]
+[2019.04.03-03.51.02:473][210]Warning: Starting HotReload took  0.0s.
+[2019.04.03-03.51.03:576][331]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.03-03.51.03:613][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.03-03.51.04:243][398]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.03-03.51.13:366][405]CompilerResultsLog: New page: Compilation - Apr 2, 2019, 3:51:13 PM
+[2019.04.03-03.51.13:367][405]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (G:\Unreal Projects\TheAffliction).
+[2019.04.03-03.51.13:367][405]CompilerResultsLog: Creating makefile for hot reloading TheAfflictionEditor (source directory changed)
+[2019.04.03-03.51.13:367][405]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.03-03.51.13:367][405]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (G:\Coding\VisualStudio\IDE\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.04.03-03.51.13:368][405]CompilerResultsLog: Building 3 actions with 4 processes...
+[2019.04.03-03.51.13:368][405]CompilerResultsLog:   [1/3] InventoryDataStructure.cpp
+[2019.04.03-03.51.13:368][405]CompilerResultsLog:    G:\Unreal Projects\TheAffliction\TheAffliction\Source\TheAffliction\InventoryDataStructure.cpp(44) : error C2561: 'InventoryDataStructure::FindItem': function must return a value
+[2019.04.03-03.51.13:369][405]CompilerResultsLog:   G:\Unreal Projects\TheAffliction\TheAffliction\Source\TheAffliction\InventoryDataStructure.cpp(40): note: see declaration of 'InventoryDataStructure::FindItem'
+[2019.04.03-03.51.13:369][405]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: G:\Unreal Projects\TheAffliction\TheAffliction\Binaries\Win64\UE4Editor-TheAffliction-5637.dll
+[2019.04.03-03.51.13:369][405]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.04.03-03.51.13:370][405]CompilerResultsLog: Total build time: 10.45 seconds (Parallel executor: 0.00 seconds)
+[2019.04.03-03.51.13:370][405]LogMainFrame: MainFrame: Module compiling took 10.905 seconds
+[2019.04.03-03.51.13:370][405]Warning: HotReload failed, recompile failed
+[2019.04.03-03.51.15:552][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-03.52.04:420][396]Candidate modules for hot reload:
+[2019.04.03-03.52.04:421][396]  TheAffliction
+[2019.04.03-03.52.04:421][396]Launching UnrealBuildTool... [D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheAffliction,227 Win64 Development -TargetType=Editor -Project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -canskiplink "G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" ]
+[2019.04.03-03.52.04:432][396]Warning: Starting HotReload took  0.0s.
+[2019.04.03-03.52.13:474][941]CompilerResultsLog: New page: Compilation - Apr 2, 2019, 3:52:13 PM
+[2019.04.03-03.52.13:474][941]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (G:\Unreal Projects\TheAffliction).
+[2019.04.03-03.52.13:475][941]CompilerResultsLog: Creating makefile for hot reloading TheAfflictionEditor (source directory changed)
+[2019.04.03-03.52.13:475][941]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.03-03.52.13:475][941]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (G:\Coding\VisualStudio\IDE\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.04.03-03.52.13:476][941]CompilerResultsLog: Building 4 actions with 4 processes...
+[2019.04.03-03.52.13:476][941]CompilerResultsLog:   [1/4] InventoryDataStructure.cpp
+[2019.04.03-03.52.13:476][941]CompilerResultsLog:   [2/4] Inventory.cpp
+[2019.04.03-03.52.13:476][941]CompilerResultsLog:    G:\Unreal Projects\TheAffliction\TheAffliction\Source\TheAffliction\Inventory.cpp(47) : error C3867: 'InventoryDataStructure::GetNumberOfItems': non-standard syntax; use '&' to create a pointer to member
+[2019.04.03-03.52.13:477][941]CompilerResultsLog: ERROR: UBT ERROR: Failed to produce item: G:\Unreal Projects\TheAffliction\TheAffliction\Binaries\Win64\UE4Editor-TheAffliction-227.dll
+[2019.04.03-03.52.13:477][941]CompilerResultsLog:        (see ../Programs/UnrealBuildTool/Log.txt for full exception trace)
+[2019.04.03-03.52.13:478][941]CompilerResultsLog: Total build time: 8.47 seconds (Parallel executor: 0.00 seconds)
+[2019.04.03-03.52.13:478][941]LogMainFrame: MainFrame: Module compiling took 9.060 seconds
+[2019.04.03-03.52.13:478][941]Warning: HotReload failed, recompile failed
+[2019.04.03-03.53.09:152][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-03.53.28:849][800]Candidate modules for hot reload:
+[2019.04.03-03.53.28:850][800]  TheAffliction
+[2019.04.03-03.53.28:850][800]Launching UnrealBuildTool... [D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheAffliction,9110 Win64 Development -TargetType=Editor -Project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -canskiplink "G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" ]
+[2019.04.03-03.53.28:857][800]Warning: Starting HotReload took  0.0s.
+[2019.04.03-03.53.42:385][313]CompilerResultsLog: New page: Compilation - Apr 2, 2019, 3:53:42 PM
+[2019.04.03-03.53.42:385][313]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (G:\Unreal Projects\TheAffliction).
+[2019.04.03-03.53.42:386][313]CompilerResultsLog: Creating makefile for hot reloading TheAfflictionEditor (source directory changed)
+[2019.04.03-03.53.42:386][313]CompilerResultsLog: Compiling game modules for hot reload
+[2019.04.03-03.53.42:386][313]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (G:\Coding\VisualStudio\IDE\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2019.04.03-03.53.42:387][313]CompilerResultsLog: Building 3 actions with 4 processes...
+[2019.04.03-03.53.42:387][313]CompilerResultsLog:   [1/3] Inventory.cpp
+[2019.04.03-03.53.42:387][313]CompilerResultsLog:   [2/3] UE4Editor-TheAffliction-9110.lib
+[2019.04.03-03.53.42:387][313]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-9110.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-9110.exp
+[2019.04.03-03.53.42:387][313]CompilerResultsLog:   [3/3] UE4Editor-TheAffliction-9110.dll
+[2019.04.03-03.53.42:387][313]CompilerResultsLog:      Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-9110.suppressed.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction-9110.suppressed.exp
+[2019.04.03-03.53.42:388][313]CompilerResultsLog: Total build time: 13.10 seconds (Parallel executor: 3.73 seconds)
+[2019.04.03-03.53.42:388][313]LogMainFrame: MainFrame: Module compiling took 13.540 seconds
+[2019.04.03-03.53.42:479][313]LogContentBrowser: Native class hierarchy updated for 'TheAffliction' in 0.0005 seconds. Added 11 classes and 2 folders.
+[2019.04.03-03.53.42:482][313]Display: HotReload successful (12 functions remapped  0 scriptstructs remapped)
+[2019.04.03-03.53.42:590][313]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.53.42:590][313]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.53.42:590][313]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.53.42:590][313]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.53.42:590][313]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.53.42:590][313]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.53.42:590][313]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.53.42:590][313]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.53.42:843][313]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2663 classes and 624 folders.
+[2019.04.03-03.53.42:844][313]Display: HotReload took 14.0s.
+[2019.04.03-03.53.56:647][928]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-03.53.56:670][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.03-03.53.56:670][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-03.53.56:671][928]PIE: New page: PIE session: Prototyping (Apr 2, 2019, 3:53:56 PM)
+[2019.04.03-03.53.56:683][928]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.03-03.53.56:691][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006980s)
+[2019.04.03-03.53.56:691][928]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.03-03.53.56:692][928]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2019.04.03-03.53.56:692][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.008532s)
+[2019.04.03-03.53.56:766][928]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-03.53.56:785][928]LogInit: FAudioDevice initialized.
+[2019.04.03-03.53.56:853][928]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.03-03.53.56:855][928]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.02-21.53.56
+[2019.04.03-03.53.56:855][928]LogWorld: Bringing up level for play took: 0.000786
+[2019.04.03-03.53.56:898][928]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.04.03-03.53.56:899][928]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.139
+[2019.04.03-03.53.56:899][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.03-03.53.59:245][204]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:252][205]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:261][206]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:269][207]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:277][208]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:286][209]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:294][210]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:303][211]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:311][212]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:319][213]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:328][214]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:336][215]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:344][216]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:353][217]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:361][218]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:369][219]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:378][220]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:386][221]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:394][222]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:403][223]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:411][224]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:420][225]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:431][226]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:438][227]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:446][228]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:454][229]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:463][230]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:471][231]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:480][232]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:488][233]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:496][234]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:505][235]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:513][236]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:521][237]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:530][238]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:538][239]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:546][240]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:555][241]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:563][242]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:571][243]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:580][244]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:588][245]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:597][246]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:597][246]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:605][247]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:605][247]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:613][248]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:613][248]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:621][249]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:621][249]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:629][250]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:629][250]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:637][251]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:637][251]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:646][252]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.53.59:646][252]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:654][253]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:662][254]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:671][255]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:679][256]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:687][257]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:696][258]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:704][259]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:713][260]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:713][260]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:721][261]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:721][261]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.53.59:729][262]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:738][263]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:746][264]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:754][265]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:763][266]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:771][267]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:779][268]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:788][269]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:796][270]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:804][271]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:813][272]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:821][273]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:829][274]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:838][275]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:846][276]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:855][277]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:863][278]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:871][279]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:880][280]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:888][281]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:896][282]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:905][283]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:913][284]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:921][285]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:930][286]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:930][286]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.53.59:938][287]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:938][287]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.53.59:946][288]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:947][288]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.53.59:955][289]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:955][289]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.53.59:963][290]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:963][290]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.53.59:972][291]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:972][291]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.53.59:980][292]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:980][292]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.53.59:988][293]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.53.59:988][293]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.53.59:997][294]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:004][295]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:012][296]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:021][297]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:029][298]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:037][299]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:046][300]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:054][301]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:054][301]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:062][302]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:063][302]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:071][303]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:071][303]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:079][304]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:079][304]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:087][305]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:088][305]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:096][306]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:096][306]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:104][307]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:104][307]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:113][308]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:113][308]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:121][309]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:122][309]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:130][310]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:130][310]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:138][311]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:138][311]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:146][312]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:147][312]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:155][313]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:155][313]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:163][314]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:163][314]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:172][315]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:172][315]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.00:180][316]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:188][317]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:196][318]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:204][319]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:213][320]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:221][321]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:230][322]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:238][323]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:796][390]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:804][391]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:813][392]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:821][393]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:829][394]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:838][395]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:846][396]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:854][397]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:863][398]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:871][399]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:879][400]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:888][401]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:896][402]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:904][403]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:913][404]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:921][405]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:930][406]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:938][407]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:946][408]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:955][409]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:963][410]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:971][411]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:980][412]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:988][413]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.00:996][414]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:005][415]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:013][416]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:021][417]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:030][418]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:038][419]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:046][420]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:055][421]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:063][422]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:072][423]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:080][424]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:088][425]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:097][426]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:097][426]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:105][427]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:105][427]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:113][428]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:113][428]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:122][429]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:122][429]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:130][430]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:130][430]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:137][431]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:138][431]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:146][432]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:146][432]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:154][433]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:163][434]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:163][434]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:171][435]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:171][435]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:179][436]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:180][436]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:188][437]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:188][437]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-03.54.01:196][438]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:204][439]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:213][440]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:221][441]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:229][442]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:238][443]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:246][444]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:254][445]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:263][446]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:271][447]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:280][448]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:288][449]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:296][450]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:304][451]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:313][452]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:321][453]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:330][454]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:338][455]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:346][456]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:355][457]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:363][458]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:371][459]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:380][460]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:388][461]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:396][462]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:405][463]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:413][464]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:421][465]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:430][466]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:438][467]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:447][468]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:473][471]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:480][472]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:489][473]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:497][474]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:505][475]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:505][475]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:513][476]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:513][476]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:521][477]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:521][477]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:529][478]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:530][478]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:538][479]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:538][479]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:546][480]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:546][480]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:554][481]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:555][481]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:563][482]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:563][482]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:571][483]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:571][483]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:580][484]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:580][484]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:588][485]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:588][485]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:596][486]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:596][486]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:604][487]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:605][487]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:613][488]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:613][488]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:622][489]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:622][489]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:630][490]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:631][490]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:638][491]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:639][491]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:647][492]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:647][492]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:655][493]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:655][493]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:663][494]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:664][494]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:672][495]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:672][495]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:680][496]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:680][496]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:689][497]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:689][497]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:697][498]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:697][498]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:705][499]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:705][499]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:713][500]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:713][500]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-03.54.01:722][501]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:730][502]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:738][503]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:747][504]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:755][505]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:763][506]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:772][507]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:780][508]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:788][509]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:797][510]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-03.54.01:905][523]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:913][524]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:921][525]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:930][526]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:938][527]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:946][528]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:955][529]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:963][530]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:971][531]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:980][532]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:988][533]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.01:997][534]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.02:005][535]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-03.54.04:299][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-03.54.06:307][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.03-03.54.06:308][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.54.06:357][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.03-03.54.06:357][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.03-03.54.06:387][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-03.54.06:390][ 22]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.54.06:390][ 22]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-03.54.06:414][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.04.03-03.54.07:080][104]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-03.54.07:108][104]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.03-03.54.07:109][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-03.54.07:109][104]PIE: New page: PIE session: Prototyping (Apr 2, 2019, 3:54:07 PM)
+[2019.04.03-03.54.07:110][104]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.03-03.54.07:116][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005996s)
+[2019.04.03-03.54.07:117][104]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.03-03.54.07:117][104]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2019.04.03-03.54.07:117][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.007607s)
+[2019.04.03-03.54.07:173][104]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-03.54.07:189][104]LogInit: FAudioDevice initialized.
+[2019.04.03-03.54.07:219][104]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.03-03.54.07:220][104]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.02-21.54.07
+[2019.04.03-03.54.07:221][104]LogWorld: Bringing up level for play took: 0.001411
+[2019.04.03-03.54.07:234][104]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping 0.196
+[2019.04.03-03.54.07:234][104]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.03-03.54.08:402][239]LogTemp: Warning: Item added: 0
+[2019.04.03-03.54.08:402][239]LogTemp: Warning: HEY I WORK
+[2019.04.03-03.54.08:402][239]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-03.54.08:828][288]LogTemp: Warning: Item added: 1
+[2019.04.03-03.54.08:829][288]LogTemp: Warning: HEY I WORK
+[2019.04.03-03.54.08:829][288]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 2
+[2019.04.03-03.54.09:591][379]LogTemp: Warning: DeconstructedAItem

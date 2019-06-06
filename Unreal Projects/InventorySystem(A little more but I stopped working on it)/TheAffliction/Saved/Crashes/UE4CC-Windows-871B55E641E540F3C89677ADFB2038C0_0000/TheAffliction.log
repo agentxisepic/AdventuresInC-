@@ -1,0 +1,1903 @@
+﻿Log file open, 04/02/19 22:45:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheAffliction
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.252891
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.117s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Pentium(R) CPU G4560 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Fortnite/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.033s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.03-04.45.48:020][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.03-04.45.48:020][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.03-04.45.48:020][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-04.45.48:020][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.03-04.45.48:020][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.03-04.45.48:020][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2019.04.03-04.45.48:020][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-04.45.48:020][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-04.45.48:020][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.03-04.45.48:020][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.03-04.45.48:020][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.03-04.45.48:021][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-04.45.48:021][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-04.45.48:023][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-04.45.48:023][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-04.45.48:024][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-04.45.48:024][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-04.45.48:024][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.03-04.45.48:036][  0]LogHAL: Display: Platform has ~ 8 GB [8470962176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.03-04.45.48:036][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.03-04.45.48:036][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.03-04.45.48:036][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.03-04.45.48:037][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.03-04.45.48:037][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.03-04.45.48:037][  0]LogInit: Computer: DESKTOP-2IRICL2
+[2019.04.03-04.45.48:037][  0]LogInit: User: agentxisepic
+[2019.04.03-04.45.48:037][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.03-04.45.48:037][  0]LogInit: High frequency timer resolution =3.421868 MHz
+[2019.04.03-04.45.48:037][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.03-04.45.48:037][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.03-04.45.48:037][  0]LogMemory: Process Physical Memory: 102.83 MB used, 102.83 MB peak
+[2019.04.03-04.45.48:038][  0]LogMemory: Process Virtual Memory: 92.80 MB used, 92.80 MB peak
+[2019.04.03-04.45.48:038][  0]LogMemory: Physical Memory: 4893.58 MB used,  3184.96 MB free, 8078.54 MB total
+[2019.04.03-04.45.48:038][  0]LogMemory: Virtual Memory: 4636.92 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.04.03-04.45.48:057][  0]LogInit: Using OS detected language (en-US).
+[2019.04.03-04.45.48:057][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.03-04.45.48:059][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.03-04.45.48:410][  0]LogStreaming: Display: Took  0.353s to InitEngineTextLocalization.
+[2019.04.03-04.45.48:410][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.03-04.45.48:452][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.03-04.45.48:452][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.03-04.45.48:797][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-04.45.48:797][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.03-04.45.48:879][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.04.03-04.45.48:879][  0]LogD3D11RHI:       2988/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.03-04.45.48:896][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 610' (Feature Level 11_0)
+[2019.04.03-04.45.48:896][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.03-04.45.48:899][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.03-04.45.48:899][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.03-04.45.48:899][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.03-04.45.48:906][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.03-04.45.48:906][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.03-04.45.48:906][  0]LogWindows: EnumDisplayDevices:
+[2019.04.03-04.45.48:907][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.04.03-04.45.48:907][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.03-04.45.48:907][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.03-04.45.48:908][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.03-04.45.48:908][  0]LogWindows:    4. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.03-04.45.48:908][  0]LogWindows:    5. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.03-04.45.48:908][  0]LogWindows:    6. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.03-04.45.48:909][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.03-04.45.48:909][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.04.03-04.45.48:909][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2019.04.03-04.45.48:909][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2019.04.03-04.45.48:909][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.04.03-04.45.48:949][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.03-04.45.48:965][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.03-04.45.49:330][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.03-04.45.49:342][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.03-04.45.49:354][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.03-04.45.49:366][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.03-04.45.49:378][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.03-04.45.49:389][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.03-04.45.49:401][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.03-04.45.49:411][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.03-04.45.49:416][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:482][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.03-04.45.49:483][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.03-04.45.49:544][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-04.45.49:544][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.03-04.45.49:566][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-04.45.49:566][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.03-04.45.49:577][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.03-04.45.49:589][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.03-04.45.49:600][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.03-04.45.49:611][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.03-04.45.49:651][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.03-04.45.49:651][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.03-04.45.49:651][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.03-04.45.49:697][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (G:/Unreal Projects/TheAffliction/TheAffliction/Intermediate/Shaders/WorkingDirectory/7524/).
+[2019.04.03-04.45.49:697][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/agentxisepic/AppData/Local/Temp/UnrealShaderWorkingDir/186817BC42935B0EFB73C781B0665FAD/'.
+[2019.04.03-04.45.49:698][  0]LogXGEController: Cleaning working directory: C:/Users/agentxisepic/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.03-04.45.49:698][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.03-04.45.49:699][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.03-04.45.49:699][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.03-04.45.50:302][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.03-04.45.50:358][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.03-04.45.50:358][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.03-04.45.50:358][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.03-04.45.50:358][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.03-04.45.50:358][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-04.45.50:358][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.03-04.45.50:374][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.03-04.45.50:374][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.03-04.45.50:374][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.03-04.45.50:386][  0]LogDerivedDataCache: Using Local data cache path C:/Users/agentxisepic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.03-04.45.50:386][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.03-04.45.50:386][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.03-04.45.50:408][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.03-04.45.50:409][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.03-04.45.50:410][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.03-04.45.50:503][  0]LogAssetRegistry: FAssetRegistry took 0.0321 seconds to start up
+[2019.04.03-04.45.50:806][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.03-04.45.50:957][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.03-04.45.50:960][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.03-04.45.50:960][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.03-04.45.50:960][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.03-04.45.50:960][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.03-04.45.50:975][  0]LogNetVersion: TheAffliction 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4273532765)
+[2019.04.03-04.45.51:582][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.112075 seconds
+[2019.04.03-04.45.51:587][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.03-04.45.51:587][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.04.03-04.45.51:587][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.03-04.45.52:575][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.03-04.45.52:589][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.03-04.45.53:389][  0]SourceControl: Source control is disabled
+[2019.04.03-04.45.53:389][  0]SourceControl: Source control is disabled
+[2019.04.03-04.45.53:391][  0]SourceControl: Source control is disabled
+[2019.04.03-04.45.53:392][  0]SourceControl: Source control is disabled
+[2019.04.03-04.45.53:555][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.03-04.45.53:687][  0]LogOcInput: OculusInput pre-init called
+[2019.04.03-04.45.53:815][  0]LogEngine: Initializing Engine...
+[2019.04.03-04.45.53:816][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.03-04.45.53:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.03-04.45.53:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-04.45.53:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.03-04.45.53:817][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-04.45.54:054][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.03-04.45.54:064][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.03-04.45.54:147][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-04.45.54:166][  0]LogInit: FAudioDevice initialized.
+[2019.04.03-04.45.54:167][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.03-04.45.54:309][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.03-04.45.54:312][  0]LogInit: Texture streaming: Enabled
+[2019.04.03-04.45.54:325][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.03-04.45.54:325][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={7F31F734-488F-0416-A873-0A89B1081198}
+[2019.04.03-04.45.54:335][  0]LogInit: Transaction tracking system initialized
+[2019.04.03-04.45.54:354][  0]BlueprintLog: New page: Editor Load
+[2019.04.03-04.45.54:412][  0]LocalizationService: Localization service is disabled
+[2019.04.03-04.45.55:069][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/' took 0.01s
+[2019.04.03-04.45.55:069][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.03-04.45.55:069][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.03-04.45.55:069][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.03-04.45.55:069][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.03-04.45.55:069][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.03-04.45.55:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.03-04.45.55:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.03-04.45.55:190][  0]SourceControl: Source control is disabled
+[2019.04.03-04.45.55:191][  0]Cmd: MAP LOAD FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/Levels/TESTING/Prototyping.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.03-04.45.55:191][  0]LightingResults: New page: Lighting Build
+[2019.04.03-04.45.55:193][  0]MapCheck: New page: Map Check
+[2019.04.03-04.45.55:193][  0]LightingResults: New page: Lighting Build
+[2019.04.03-04.45.55:377][  0]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.03-04.45.55:386][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.03-04.45.55:406][  0]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-04.45.55:406][  0]LogTemp: Warning: DeconstructedAItem
+[2019.04.03-04.45.55:406][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.03-04.45.55:406][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2019.04.03-04.45.55:406][  0]LogFileHelpers: Loading map 'Prototyping' took 0.215
+[2019.04.03-04.45.55:516][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-04.45.55:523][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-04.45.55:530][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-04.45.55:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.03-04.45.55:541][  0]LogCollectionManager: Loaded 0 collections in 0.000864 seconds
+[2019.04.03-04.45.55:568][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Collections/' took 0.01s
+[2019.04.03-04.45.55:568][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Developers/agentxisepic/Collections/' took 0.00s
+[2019.04.03-04.45.55:568][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Collections/' took 0.01s
+[2019.04.03-04.45.55:568][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.03-04.45.55:576][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2663 classes and 624 folders.
+[2019.04.03-04.45.55:581][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.03-04.45.55:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:588][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.03-04.45.55:642][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.03-04.45.55:703][  0]LogSlate: Took 0.000380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.03-04.45.55:710][  0]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.03-04.45.55:715][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.03-04.45.55:716][  0]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.04.03-04.45.55:838][  0]LogRenderer: Reallocating scene render targets to support 1160x580 Format 10 NumSamples 1 (Frame:1).
+[2019.04.03-04.45.56:012][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.03-04.45.56:013][  0]LogLoad: (Engine Initialization) Total time: 10.23 seconds
+[2019.04.03-04.45.56:013][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.03-04.45.56:024][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.03-04.45.56:071][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.03-04.45.56:197][  2]LogAssetRegistry: Asset discovery search completed in 5.7161 seconds
+[2019.04.03-04.45.56:200][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.03-04.45.56:200][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000396 seconds (updated 0 objects)
+[2019.04.03-04.45.57:005][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.03-04.45.57:043][ 97]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.03-04.45.59:129][338]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP
+[2019.04.03-04.45.59:608][338]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.04.03-04.46.00:339][338]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.03-04.46.00:448][339]LogSlate: Took 0.000414 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.03-04.46.02:148][498]LogSlate: Window 'AfflictionPlayerController_BP' being destroyed
+[2019.04.03-04.46.04:265][747]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.03-04.46.04:284][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.03-04.46.04:285][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.03-04.46.04:285][747]PIE: New page: PIE session: Prototyping (Apr 2, 2019, 4:46:04 PM)
+[2019.04.03-04.46.04:298][747]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.03-04.46.04:305][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006833s)
+[2019.04.03-04.46.04:306][747]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.03-04.46.04:307][747]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2019.04.03-04.46.04:307][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.009158s)
+[2019.04.03-04.46.04:363][747]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.03-04.46.04:381][747]LogInit: FAudioDevice initialized.
+[2019.04.03-04.46.04:446][747]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.03-04.46.04:448][747]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.02-22.46.04
+[2019.04.03-04.46.04:449][747]LogWorld: Bringing up level for play took: 0.001177
+[2019.04.03-04.46.04:466][747]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2019.04.03-04.46.04:468][747]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.57
+[2019.04.03-04.46.04:468][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.03-04.46.04:469][747]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:521][748]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:533][749]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:541][750]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:549][751]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:557][752]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:565][753]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:574][754]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:582][755]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:589][756]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:598][757]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:606][758]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:615][759]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:623][760]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:632][761]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:640][762]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:648][763]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:656][764]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:665][765]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:673][766]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:682][767]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:690][768]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:698][769]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:707][770]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:715][771]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:723][772]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:732][773]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:740][774]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:748][775]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:757][776]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:765][777]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:773][778]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:782][779]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:790][780]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:798][781]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:807][782]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:815][783]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:824][784]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:832][785]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:840][786]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:849][787]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:857][788]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:866][789]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:874][790]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:882][791]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:891][792]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:899][793]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:908][794]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:917][795]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:925][796]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:934][797]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:942][798]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:950][799]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:957][800]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:966][801]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:974][802]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:983][803]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:991][804]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.04:999][805]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:007][806]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:016][807]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:024][808]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:033][809]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:041][810]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:050][811]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:058][812]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:066][813]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:074][814]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:083][815]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:091][816]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:099][817]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:108][818]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:116][819]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:125][820]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:134][821]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:141][822]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:150][823]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:158][824]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:166][825]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:174][826]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:183][827]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:191][828]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:200][829]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:208][830]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:216][831]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:224][832]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:233][833]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:241][834]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:250][835]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:258][836]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:267][837]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:275][838]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:283][839]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:291][840]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:300][841]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:308][842]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:317][843]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:325][844]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:333][845]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:341][846]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:349][847]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:357][848]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:366][849]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:374][850]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:382][851]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:391][852]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:399][853]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:407][854]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:416][855]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:424][856]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:433][857]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:441][858]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:449][859]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:457][860]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:466][861]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:474][862]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:483][863]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:491][864]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:500][865]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:508][866]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:517][867]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:525][868]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:536][869]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:544][870]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:553][871]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:561][872]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:569][873]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:578][874]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:586][875]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:595][876]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:604][877]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:612][878]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:620][879]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:629][880]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:637][881]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:645][882]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:654][883]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:662][884]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:671][885]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:679][886]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:687][887]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:696][888]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:703][889]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:711][890]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:720][891]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:728][892]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:736][893]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:745][894]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:753][895]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:762][896]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:770][897]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:778][898]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:787][899]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:795][900]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:803][901]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:812][902]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:820][903]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:828][904]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:837][905]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:845][906]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:853][907]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:862][908]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:870][909]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:879][910]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:887][911]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:895][912]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:904][913]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:912][914]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:920][915]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:929][916]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:937][917]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:945][918]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:954][919]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:962][920]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:970][921]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:979][922]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:987][923]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.05:995][924]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:004][925]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:012][926]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:021][927]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:029][928]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:037][929]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:046][930]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:053][931]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:061][932]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:070][933]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:078][934]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:086][935]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:095][936]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:104][937]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:112][938]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:120][939]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:129][940]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:137][941]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:145][942]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:154][943]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:162][944]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:170][945]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:179][946]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:187][947]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:196][948]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:204][949]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:212][950]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:221][951]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:229][952]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:237][953]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:245][954]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:253][955]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:262][956]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:270][957]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:278][958]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:286][959]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:295][960]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:303][961]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:312][962]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:320][963]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:328][964]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:337][965]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:345][966]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:353][967]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:362][968]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:370][969]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:378][970]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:387][971]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:395][972]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:404][973]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:412][974]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:420][975]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:429][976]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:437][977]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:445][978]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:454][979]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:462][980]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:470][981]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:479][982]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:487][983]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:496][984]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:504][985]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:512][986]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:521][987]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:529][988]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:538][989]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:548][990]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:556][991]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:564][992]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:573][993]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:581][994]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:589][995]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:598][996]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:606][997]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:615][998]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:622][999]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:630][  0]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:638][  1]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:647][  2]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:655][  3]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:663][  4]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:672][  5]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:680][  6]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:688][  7]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:697][  8]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:705][  9]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:714][ 10]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:722][ 11]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:730][ 12]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:739][ 13]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:747][ 14]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:755][ 15]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:764][ 16]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:772][ 17]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:781][ 18]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:789][ 19]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:797][ 20]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:805][ 21]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:814][ 22]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:822][ 23]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:831][ 24]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:839][ 25]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:847][ 26]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:856][ 27]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:864][ 28]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:873][ 29]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:882][ 30]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:890][ 31]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:899][ 32]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:908][ 33]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:918][ 34]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:926][ 35]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:935][ 36]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:943][ 37]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:951][ 38]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:960][ 39]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:968][ 40]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:977][ 41]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:985][ 42]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.06:993][ 43]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:001][ 44]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:009][ 45]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:017][ 46]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:026][ 47]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:034][ 48]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:042][ 49]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:051][ 50]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:059][ 51]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:067][ 52]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:076][ 53]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:084][ 54]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:093][ 55]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:101][ 56]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:109][ 57]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:117][ 58]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:126][ 59]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:134][ 60]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:143][ 61]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:151][ 62]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:159][ 63]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:168][ 64]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:176][ 65]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:184][ 66]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:193][ 67]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:201][ 68]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:209][ 69]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:218][ 70]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:226][ 71]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:235][ 72]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:243][ 73]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:251][ 74]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:260][ 75]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:268][ 76]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:276][ 77]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:285][ 78]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:293][ 79]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:301][ 80]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:310][ 81]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:318][ 82]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:326][ 83]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:335][ 84]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:342][ 85]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:351][ 86]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:359][ 87]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:367][ 88]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:376][ 89]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:384][ 90]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:393][ 91]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:401][ 92]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:409][ 93]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:418][ 94]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:426][ 95]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:434][ 96]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:443][ 97]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:451][ 98]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:459][ 99]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:468][100]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:476][101]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:484][102]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:493][103]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:501][104]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:509][105]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:518][106]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:526][107]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:535][108]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:543][109]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:552][110]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:560][111]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:568][112]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:577][113]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:585][114]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:593][115]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:602][116]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:610][117]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:618][118]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:627][119]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:635][120]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:643][121]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:652][122]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:660][123]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:668][124]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:677][125]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:685][126]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:694][127]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:702][128]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:709][129]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:718][130]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:726][131]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:726][131]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:734][132]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:734][132]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:743][133]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:743][133]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:751][134]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:751][134]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:759][135]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:760][135]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:768][136]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:768][136]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:776][137]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:776][137]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:784][138]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:785][138]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:793][139]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:793][139]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:801][140]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:801][140]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:809][141]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:810][141]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:818][142]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:818][142]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:826][143]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:826][143]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:834][144]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:835][144]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:843][145]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:843][145]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:852][146]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:852][146]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:852][146]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:860][147]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:860][147]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:860][147]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:868][148]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:868][148]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:868][148]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:877][149]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:877][149]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:877][149]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:885][150]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:885][150]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:885][150]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:894][151]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:894][151]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:895][151]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:902][152]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:903][152]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:903][152]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:911][153]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:911][153]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.07:911][153]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:919][154]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:919][154]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:927][155]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:928][155]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:936][156]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:936][156]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:944][157]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:944][157]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:953][158]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:953][158]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:961][159]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:961][159]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:969][160]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:969][160]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:978][161]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:978][161]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:986][162]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:986][162]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.07:995][163]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.07:996][163]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:006][164]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:007][164]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:015][165]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:016][165]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:025][166]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:025][166]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:035][167]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:035][167]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:045][168]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:046][168]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:055][169]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:055][169]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:065][170]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:065][170]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:075][171]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:075][171]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:084][172]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:084][172]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:094][173]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:094][173]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:104][174]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:104][174]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:115][175]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:115][175]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:123][176]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:123][176]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:131][177]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:132][177]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:140][178]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:140][178]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:148][179]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:148][179]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:156][180]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:157][180]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:165][181]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:165][181]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:173][182]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:173][182]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:182][183]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:182][183]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:190][184]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:190][184]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:198][185]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:199][185]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:207][186]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:207][186]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:215][187]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:216][187]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:224][188]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:224][188]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:232][189]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:233][189]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:241][190]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:241][190]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:249][191]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:249][191]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:257][192]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:258][192]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:266][193]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.08:266][193]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:274][194]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:282][195]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:282][195]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:290][196]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:290][196]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:298][197]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:298][197]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:306][198]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:307][198]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:315][199]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:315][199]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:323][200]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:323][200]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:332][201]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:332][201]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:340][202]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:340][202]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:348][203]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:348][203]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:357][204]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:357][204]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:365][205]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:365][205]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:373][206]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:374][206]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:382][207]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:382][207]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:390][208]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:390][208]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:398][209]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.08:399][209]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:407][210]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:415][211]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:424][212]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:432][213]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:440][214]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:448][215]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:457][216]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:465][217]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:474][218]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:482][219]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:490][220]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:498][221]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:507][222]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:515][223]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:524][224]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:532][225]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:540][226]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:549][227]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:557][228]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:565][229]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:574][230]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:582][231]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:590][232]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:599][233]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:607][234]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:615][235]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:624][236]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:632][237]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:641][238]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:649][239]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:656][240]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:665][241]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:673][242]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:681][243]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:690][244]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:698][245]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:706][246]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:715][247]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:723][248]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:732][249]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:740][250]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:748][251]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:757][252]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:765][253]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:773][254]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:782][255]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:790][256]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:798][257]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:807][258]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:815][259]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:823][260]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:832][261]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:840][262]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:848][263]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:857][264]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:865][265]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:874][266]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:882][267]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:891][268]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:899][269]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:908][270]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:916][271]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:924][272]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:933][273]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:941][274]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:949][275]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:958][276]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:966][277]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:974][278]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:983][279]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:991][280]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.08:999][281]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:008][282]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:016][283]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:024][284]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:033][285]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:040][286]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:049][287]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:057][288]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:065][289]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:074][290]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:083][291]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:090][292]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:099][293]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:107][294]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:115][295]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:124][296]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:132][297]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:140][298]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:149][299]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:157][300]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:166][301]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:174][302]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:183][303]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:191][304]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:199][305]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:207][306]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:216][307]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:224][308]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:233][309]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:241][310]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:249][311]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:257][312]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:266][313]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:274][314]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:283][315]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:291][316]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:299][317]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:308][318]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:316][319]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:324][320]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:333][321]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:341][322]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:349][323]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:357][324]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:366][325]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:374][326]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:383][327]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:391][328]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:399][329]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:407][330]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:416][331]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:424][332]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:433][333]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:441][334]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:449][335]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:458][336]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:466][337]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:474][338]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:483][339]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:491][340]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:499][341]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:508][342]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:516][343]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:524][344]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:533][345]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:541][346]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:549][347]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:557][348]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:566][349]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:574][350]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:583][351]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:591][352]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:599][353]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:608][354]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:616][355]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:624][356]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:633][357]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:641][358]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:650][359]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:658][360]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:666][361]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:674][362]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:683][363]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:691][364]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:691][364]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:700][365]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:700][365]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:708][366]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:708][366]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:716][367]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:717][367]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:725][368]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:725][368]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:734][369]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:734][369]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:741][370]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:742][370]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:750][371]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:750][371]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:758][372]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:758][372]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:766][373]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:767][373]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:775][374]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:775][374]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:784][375]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:784][375]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:790][376]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:791][376]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:799][377]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:799][377]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:807][378]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:807][378]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:816][379]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:816][379]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:816][379]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:824][380]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:824][380]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:824][380]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:833][381]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:833][381]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:833][381]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:841][382]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:841][382]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:841][382]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:849][383]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:850][383]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:850][383]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:858][384]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:858][384]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:858][384]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:866][385]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:866][385]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:867][385]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:874][386]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:875][386]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:875][386]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:884][387]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:884][387]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:884][387]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:892][388]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:892][388]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:892][388]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:900][389]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:901][389]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:901][389]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:910][390]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:910][390]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.09:910][390]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:918][391]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:918][391]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:927][392]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:927][392]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:935][393]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:935][393]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:943][394]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:943][394]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:952][395]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:952][395]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:960][396]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:960][396]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:968][397]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:968][397]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:977][398]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:977][398]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:985][399]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:985][399]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.09:993][400]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.09:994][400]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:002][401]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:002][401]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:010][402]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:010][402]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:018][403]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:019][403]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:026][404]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:026][404]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:035][405]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:035][405]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:043][406]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:043][406]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:051][407]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:052][407]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:060][408]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:060][408]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:068][409]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:068][409]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:076][410]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:077][410]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:085][411]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:085][411]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:093][412]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:093][412]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:102][413]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:102][413]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:110][414]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:110][414]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:118][415]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:118][415]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:126][416]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:126][416]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:126][416]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:134][417]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:135][417]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:135][417]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:143][418]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:143][418]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:143][418]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:151][419]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:151][419]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:151][419]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:159][420]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:160][420]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:160][420]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:168][421]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:168][421]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:168][421]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:176][422]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:176][422]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:176][422]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:185][423]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:185][423]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:185][423]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:193][424]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:193][424]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:193][424]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:201][425]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:201][425]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:202][425]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:210][426]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:210][426]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:210][426]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:218][427]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:218][427]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:218][427]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:226][428]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:226][428]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:227][428]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:235][429]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.10:235][429]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:235][429]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:243][430]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:243][430]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:251][431]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:252][431]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:260][432]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:260][432]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:268][433]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:268][433]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:276][434]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:277][434]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:285][435]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:285][435]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:293][436]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:294][436]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:302][437]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.10:302][437]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:310][438]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:318][439]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:327][440]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:335][441]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:343][442]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:352][443]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.10:352][443]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:360][444]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.10:360][444]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:368][445]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.10:369][445]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:377][446]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.10:377][446]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:385][447]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.10:385][447]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:393][448]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.10:394][448]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:402][449]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:410][450]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:419][451]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:426][452]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:434][453]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:443][454]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:451][455]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:459][456]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:468][457]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:476][458]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:484][459]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:493][460]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:501][461]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:509][462]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:518][463]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:526][464]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:535][465]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:543][466]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:551][467]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:560][468]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:568][469]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:576][470]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:585][471]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:593][472]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:602][473]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:610][474]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:618][475]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:627][476]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:635][477]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:643][478]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:652][479]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:660][480]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:668][481]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:677][482]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:685][483]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:693][484]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:702][485]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:710][486]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:718][487]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:727][488]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:735][489]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:744][490]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:752][491]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:760][492]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:769][493]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:777][494]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:785][495]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:794][496]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:801][497]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:809][498]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:818][499]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:826][500]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:835][501]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:844][502]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:852][503]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:860][504]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:869][505]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:877][506]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:887][507]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:897][508]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:905][509]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:915][510]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:923][511]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:932][512]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:940][513]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:948][514]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:956][515]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:965][516]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:973][517]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:982][518]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:989][519]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.10:997][520]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:006][521]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:014][522]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:022][523]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:031][524]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:039][525]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:048][526]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:056][527]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:064][528]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:073][529]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:081][530]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:089][531]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:098][532]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:106][533]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:114][534]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:123][535]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:131][536]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:139][537]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:148][538]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:156][539]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:164][540]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:173][541]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:181][542]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:189][543]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:198][544]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:206][545]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:215][546]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:223][547]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:231][548]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:240][549]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:248][550]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:256][551]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:265][552]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:273][553]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:281][554]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:290][555]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:298][556]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:307][557]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:315][558]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:323][559]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:332][560]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:340][561]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:348][562]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:357][563]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:365][564]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:373][565]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:381][566]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:389][567]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:397][568]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:406][569]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:414][570]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:423][571]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:431][572]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:439][573]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:448][574]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:456][575]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:464][576]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:473][577]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:481][578]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:489][579]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:498][580]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:506][581]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:514][582]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:523][583]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:531][584]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:539][585]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:548][586]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:556][587]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:565][588]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:565][588]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:573][589]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:573][589]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:581][590]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:581][590]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:590][591]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:590][591]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:598][592]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:598][592]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:606][593]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:606][593]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:615][594]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:615][594]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:623][595]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:624][595]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:632][596]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:632][596]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:640][597]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:640][597]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:649][598]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:649][598]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:649][598]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:657][599]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:657][599]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:657][599]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:665][600]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:665][600]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:665][600]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:673][601]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:674][601]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:674][601]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:682][602]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:682][602]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:682][602]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:690][603]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:690][603]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:690][603]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:698][604]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:699][604]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:699][604]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:707][605]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:707][605]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:707][605]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:715][606]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:715][606]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:715][606]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:724][607]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:724][607]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:724][607]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:732][608]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:732][608]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:732][608]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:740][609]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:740][609]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:741][609]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:749][610]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:749][610]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:749][610]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:756][611]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:756][611]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:756][611]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:764][612]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:764][612]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:765][612]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:773][613]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:773][613]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.11:773][613]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:781][614]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:781][614]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:789][615]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:790][615]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:798][616]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:798][616]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:806][617]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:806][617]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:814][618]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:815][618]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:823][619]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:823][619]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:831][620]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:831][620]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:840][621]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:840][621]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:848][622]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:848][622]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:856][623]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:856][623]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:865][624]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:865][624]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:873][625]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:874][625]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:882][626]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:882][626]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:890][627]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:890][627]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:899][628]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:899][628]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:907][629]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:907][629]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:915][630]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:915][630]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:923][631]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:924][631]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:932][632]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:932][632]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:940][633]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:940][633]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:948][634]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:949][634]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:957][635]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:957][635]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:965][636]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:965][636]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:974][637]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:974][637]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.11:974][637]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:982][638]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:982][638]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.11:982][638]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:990][639]LogTemp: Warning: Moving the pawn Left
+[2019.04.03-04.46.11:990][639]LogTemp: Warning: Moving the pawn Backward
+[2019.04.03-04.46.11:990][639]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.11:999][640]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:007][641]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:015][642]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:024][643]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:032][644]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:040][645]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:048][646]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:057][647]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:065][648]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:074][649]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:082][650]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:090][651]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:099][652]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:107][653]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:115][654]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:116][654]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:124][655]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:124][655]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:132][656]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:133][656]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:140][657]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:141][657]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:149][658]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:149][658]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:157][659]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:157][659]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:165][660]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:166][660]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:174][661]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:174][661]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.12:174][661]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:182][662]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:183][662]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.12:183][662]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:191][663]LogTemp: Warning: Moving the pawn Right
+[2019.04.03-04.46.12:191][663]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.12:191][663]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:199][664]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.12:199][664]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:207][665]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.12:207][665]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:216][666]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.12:216][666]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:223][667]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.12:223][667]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:231][668]LogTemp: Warning: Moving the pawn Forward
+[2019.04.03-04.46.12:232][668]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:240][669]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:248][670]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:256][671]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:265][672]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:273][673]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:281][674]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:290][675]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:298][676]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:307][677]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:315][678]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:323][679]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:332][680]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:340][681]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:348][682]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:357][683]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:365][684]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:373][685]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:382][686]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:390][687]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:398][688]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:407][689]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:415][690]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:424][691]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:432][692]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:440][693]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:449][694]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:457][695]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:465][696]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:474][697]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:482][698]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:490][699]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:499][700]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:507][701]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 0
+[2019.04.03-04.46.12:516][702]LogTemp: Warning: Item added: -14
+[2019.04.03-04.46.12:516][702]LogTemp: Warning: HEY I WORK
+[2019.04.03-04.46.12:516][702]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:524][703]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:532][704]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:541][705]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:549][706]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:557][707]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:566][708]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:574][709]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:582][710]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:591][711]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:598][712]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:606][713]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:615][714]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:623][715]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:632][716]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:640][717]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:648][718]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:656][719]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:665][720]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:673][721]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:682][722]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:690][723]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:698][724]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:707][725]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:715][726]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:723][727]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:732][728]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:740][729]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:748][730]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:757][731]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:765][732]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:774][733]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:782][734]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:790][735]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:799][736]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:807][737]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:815][738]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:824][739]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:832][740]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:840][741]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:849][742]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:857][743]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:866][744]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:874][745]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:882][746]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:891][747]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:899][748]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:908][749]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:916][750]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:924][751]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:933][752]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:941][753]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:949][754]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:957][755]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:966][756]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:973][757]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:982][758]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:990][759]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.12:998][760]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.13:006][761]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.13:015][762]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.13:023][763]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.13:032][764]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1
+[2019.04.03-04.46.13:040][765]LogBlueprintUserMessages: [AfflictionPlayerController_BP_C_0] 1

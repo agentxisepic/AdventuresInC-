@@ -1,0 +1,1338 @@
+﻿Log file open, 04/05/19 12:05:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TheAffliction
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.226455
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.636s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Pentium(R) CPU G4560 @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Games/Fortnite/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.126s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.05-18.05.45:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.05-18.05.45:034][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.05-18.05.45:035][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.05-18.05.45:035][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.05-18.05.45:054][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.05-18.05.45:054][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.05-18.05.45:055][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.05-18.05.45:066][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.05-18.05.45:066][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.05-18.05.45:211][  0]LogHAL: Display: Platform has ~ 8 GB [8470962176 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.05-18.05.45:290][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.05-18.05.45:290][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.05-18.05.45:290][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.05-18.05.45:291][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Scalability.ini]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.05-18.05.45:292][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.05-18.05.45:292][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Config/Windows/Engine.ini]
+[2019.04.05-18.05.45:399][  0]LogInit: Computer: DESKTOP-2IRICL2
+[2019.04.05-18.05.45:399][  0]LogInit: User: agentxisepic
+[2019.04.05-18.05.45:399][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.04.05-18.05.45:399][  0]LogInit: High frequency timer resolution =3.421868 MHz
+[2019.04.05-18.05.45:450][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.04.05-18.05.45:450][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.05-18.05.45:450][  0]LogMemory: Process Physical Memory: 102.30 MB used, 102.30 MB peak
+[2019.04.05-18.05.45:450][  0]LogMemory: Process Virtual Memory: 84.45 MB used, 84.45 MB peak
+[2019.04.05-18.05.45:450][  0]LogMemory: Physical Memory: 5031.90 MB used,  3046.64 MB free, 8078.54 MB total
+[2019.04.05-18.05.45:450][  0]LogMemory: Virtual Memory: 4628.92 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.04.05-18.05.47:131][  0]LogInit: Using OS detected language (en-US).
+[2019.04.05-18.05.47:131][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.05-18.05.47:370][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.05-18.05.49:981][  0]LogStreaming: Display: Took  2.857s to InitEngineTextLocalization.
+[2019.04.05-18.05.49:981][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.05-18.05.51:135][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.05-18.05.51:135][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.05-18.06.08:253][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.05-18.06.08:253][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.05-18.06.08:325][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.04.05-18.06.08:325][  0]LogD3D11RHI:       2988/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.05-18.06.08:401][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 610' (Feature Level 11_0)
+[2019.04.05-18.06.08:401][  0]LogD3D11RHI:       128/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.05-18.06.08:408][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.05-18.06.08:408][  0]LogD3D11RHI:       0/0/4039 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.05-18.06.08:408][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.05-18.06.08:449][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.05-18.06.08:450][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.05-18.06.08:450][  0]LogWindows: EnumDisplayDevices:
+[2019.04.05-18.06.08:450][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.04.05-18.06.08:498][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.05-18.06.08:499][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.05-18.06.08:499][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.04.05-18.06.08:499][  0]LogWindows:    4. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.05-18.06.08:499][  0]LogWindows:    5. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.05-18.06.08:500][  0]LogWindows:    6. 'Intel(R) HD Graphics 610' (P:0 D:0)
+[2019.04.05-18.06.08:500][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.05-18.06.08:500][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.04.05-18.06.08:547][  0]LogD3D11RHI:   Driver Version: 419.67 (internal:25.21.14.1967, unified:419.67)
+[2019.04.05-18.06.08:547][  0]LogD3D11RHI:      Driver Date: 3-17-2019
+[2019.04.05-18.06.08:547][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2019.04.05-18.06.08:594][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.05-18.06.09:970][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.05-18.06.11:737][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.05-18.06.11:763][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.05-18.06.11:782][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.05-18.06.11:851][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.05-18.06.12:002][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.05-18.06.12:115][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.05-18.06.12:190][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.05-18.06.12:230][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.05-18.06.12:245][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.05-18.06.12:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:452][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.05-18.06.12:655][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.05-18.06.12:969][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.05-18.06.12:969][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.05-18.06.13:046][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.05-18.06.13:046][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.05-18.06.13:084][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.05-18.06.13:174][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.05-18.06.13:247][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.05-18.06.13:364][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.05-18.06.13:461][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.05-18.06.13:461][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.05-18.06.13:461][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.05-18.06.16:286][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (G:/Unreal Projects/TheAffliction/TheAffliction/Intermediate/Shaders/WorkingDirectory/11844/).
+[2019.04.05-18.06.16:286][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/agentxisepic/AppData/Local/Temp/UnrealShaderWorkingDir/DB4003864CA731A134B41DA6078D63ED/'.
+[2019.04.05-18.06.16:417][  0]LogXGEController: Cleaning working directory: C:/Users/agentxisepic/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.05-18.06.16:418][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.05-18.06.16:418][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.05-18.06.16:418][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.05-18.06.22:927][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.05-18.06.23:334][  0]LogDerivedDataCache: Loaded boot cache 0.40s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.05-18.06.23:334][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.05-18.06.23:334][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.05-18.06.23:334][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.05-18.06.23:334][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/Unreal Projects/TheAffliction/TheAffliction/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.05-18.06.23:334][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.05-18.06.23:422][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.05-18.06.23:422][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.05-18.06.23:422][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.05-18.06.23:434][  0]LogDerivedDataCache: Using Local data cache path C:/Users/agentxisepic/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.05-18.06.23:434][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.05-18.06.23:434][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.05-18.06.23:493][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.05-18.06.23:545][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.05-18.06.23:562][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.05-18.06.23:957][  0]LogAssetRegistry: FAssetRegistry took 0.0405 seconds to start up
+[2019.04.05-18.06.26:195][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.05-18.06.27:133][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.05-18.06.27:183][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.05-18.06.27:183][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.05-18.06.27:184][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.05-18.06.27:184][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.05-18.06.27:306][  0]LogNetVersion: TheAffliction 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4273532765)
+[2019.04.05-18.06.29:859][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.283202 seconds
+[2019.04.05-18.06.29:886][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.05-18.06.29:886][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.05-18.06.29:886][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.05-18.06.59:139][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.05-18.06.59:207][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.05-18.07.03:669][  0]SourceControl: Source control is disabled
+[2019.04.05-18.07.03:669][  0]SourceControl: Source control is disabled
+[2019.04.05-18.07.03:705][  0]SourceControl: Source control is disabled
+[2019.04.05-18.07.03:725][  0]SourceControl: Source control is disabled
+[2019.04.05-18.07.04:638][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.05-18.07.04:843][  0]LogOcInput: OculusInput pre-init called
+[2019.04.05-18.07.05:766][  0]LogEngine: Initializing Engine...
+[2019.04.05-18.07.05:781][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.05-18.07.05:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.05-18.07.05:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.05-18.07.05:791][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.05-18.07.05:792][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.05-18.07.06:565][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.05-18.07.06:711][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.05-18.07.06:763][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.07.06:792][  0]LogInit: FAudioDevice initialized.
+[2019.04.05-18.07.06:792][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.05-18.07.06:975][  0]LogDerivedDataCache: Saved boot cache 0.18s 71MB C:/Users/agentxisepic/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.05-18.07.06:988][  0]LogInit: Texture streaming: Enabled
+[2019.04.05-18.07.07:095][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.05-18.07.07:105][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={9C75B0AB-462F-83C5-F28E-4E975C398C40}
+[2019.04.05-18.07.07:171][  0]LogInit: Transaction tracking system initialized
+[2019.04.05-18.07.07:426][  0]BlueprintLog: New page: Editor Load
+[2019.04.05-18.07.08:136][  0]LocalizationService: Localization service is disabled
+[2019.04.05-18.07.10:333][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/' took 0.02s
+[2019.04.05-18.07.10:334][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.05-18.07.10:334][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.05-18.07.10:334][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.05-18.07.10:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.05-18.07.10:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.05-18.07.10:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.05-18.07.10:334][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.05-18.07.11:569][  0]SourceControl: Source control is disabled
+[2019.04.05-18.07.11:686][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.05-18.11.13:064][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.04.05-18.11.13:083][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.05-18.11.13:686][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.05-18.11.13:748][  0]Cmd: MAP LOAD FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/Levels/TESTING/Prototyping.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.05-18.11.13:755][  0]LightingResults: New page: Lighting Build
+[2019.04.05-18.11.13:808][  0]MapCheck: New page: Map Check
+[2019.04.05-18.11.13:809][  0]LightingResults: New page: Lighting Build
+[2019.04.05-18.11.14:668][  0]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.11.14:800][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.05-18.11.14:898][  0]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.11.14:906][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.05-18.11.14:913][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.376ms to complete.
+[2019.04.05-18.11.14:913][  0]LogFileHelpers: Loading map 'Prototyping' took 1.218
+[2019.04.05-18.11.15:337][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.11.15:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.11.15:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.11.15:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.11.15:438][  0]LogCollectionManager: Loaded 0 collections in 0.001618 seconds
+[2019.04.05-18.11.15:562][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Collections/' took 0.01s
+[2019.04.05-18.11.15:562][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Developers/agentxisepic/Collections/' took 0.00s
+[2019.04.05-18.11.15:562][  0]LogFileCache: Scanning file cache for directory 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/Collections/' took 0.01s
+[2019.04.05-18.11.15:563][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.05-18.11.15:591][  0]LogContentBrowser: Native class hierarchy populated in 0.0273 seconds. Added 2663 classes and 624 folders.
+[2019.04.05-18.11.15:696][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.05-18.11.15:776][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.15:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.15:883][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.15:909][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.15:921][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.15:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.15:952][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.15:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.15:966][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:017][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:031][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:069][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:119][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:125][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:185][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:213][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.05-18.11.16:982][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.05-18.11.17:498][  0]LogSlate: Took 0.000376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.05-18.11.17:552][  0]LogSlate: Took 0.039091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.05-18.11.17:606][  0]LogSlate: Took 0.026950 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.04.05-18.11.17:818][  0]LogRenderer: Reallocating scene render targets to support 1160x580 Format 10 NumSamples 1 (Frame:1).
+[2019.04.05-18.11.18:235][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.04.05-18.11.18:236][  0]LogLoad: (Engine Initialization) Total time: 345.85 seconds
+[2019.04.05-18.11.18:236][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.05-18.11.18:437][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.05-18.11.18:798][  4]LogAssetRegistry: Asset discovery search completed in 294.8639 seconds
+[2019.04.05-18.11.18:802][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.05-18.11.18:802][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000338 seconds (updated 0 objects)
+[2019.04.05-18.11.19:338][ 33]LogSlate: Took 0.020012 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.05-18.12.08:579][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.12.08:742][455]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MyAfflictionCharacter.MyAfflictionCharacter
+[2019.04.05-18.12.09:680][455]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 117 classes and 0 folders.
+[2019.04.05-18.12.11:524][455]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AfflictionPlayerController_BP.AfflictionPlayerController_BP
+[2019.04.05-18.12.11:881][455]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/TESTING/Prototyping.Prototyping
+[2019.04.05-18.12.12:559][455]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/TESTING/InventorySlot.InventorySlot
+[2019.04.05-18.12.12:941][455]LogSlate: Took 0.025502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.05-18.12.13:634][456]LogSlate: Took 0.001084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.05-18.12.15:650][642]LogSlate: Window 'AfflictionPlayerController_BP' being destroyed
+[2019.04.05-18.12.46:763][ 63]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::EqualEqual_IntInt' [Element not found.]
+[2019.04.05-18.13.01:694][805]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.13.02:827][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.13.02:932][840]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/PrototypingAB20BD274E55D33F05F671922F6F9288.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.13.04:428][ 12]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.13.04:461][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.13.04:461][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.13.04:502][ 12]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:13:04 AM)
+[2019.04.05-18.13.04:515][ 12]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.13.04:521][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005704s)
+[2019.04.05-18.13.04:522][ 12]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.13.04:522][ 12]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2019.04.05-18.13.04:522][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.007646s)
+[2019.04.05-18.13.04:575][ 12]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.13.04:595][ 12]LogInit: FAudioDevice initialized.
+[2019.04.05-18.13.04:835][ 12]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.13.04:836][ 12]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.13.04
+[2019.04.05-18.13.04:837][ 12]LogWorld: Bringing up level for play took: 0.001226
+[2019.04.05-18.13.04:902][ 12]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.04.05-18.13.04:906][ 12]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.119
+[2019.04.05-18.13.04:906][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.13.05:839][116]LogTemp: Warning: Item added: 1
+[2019.04.05-18.13.05:839][116]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.05-18.13.05:842][116]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.13.06:313][172]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.05-18.13.06:813][232]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.05-18.13.07:186][276]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.13.07:186][276]LogTemp: Warning: Item added: 2
+[2019.04.05-18.13.07:186][276]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.13.07:186][276]LogBlueprintUserMessages: [Prototyping_C_0] 2
+[2019.04.05-18.13.07:712][339]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.13.07:713][339]LogTemp: Warning: Item added: 3
+[2019.04.05-18.13.07:713][339]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.13.07:713][339]LogBlueprintUserMessages: [Prototyping_C_0] 3
+[2019.04.05-18.13.08:086][383]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.13.08:086][383]LogTemp: Warning: Item added: 4
+[2019.04.05-18.13.08:086][383]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.13.08:086][383]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.13.09:853][593]LogTemp: Warning: Item at slot 1: Med
+There are 8 available
+[2019.04.05-18.13.09:853][593]LogTemp: Warning: Item at slot 2: Med
+There are 4 available
+[2019.04.05-18.13.09:853][593]LogTemp: Warning: Item at slot 3: Med
+There are 4 available
+[2019.04.05-18.13.09:853][593]LogTemp: Warning: Item at slot 4: Med
+There are 4 available
+[2019.04.05-18.13.10:465][666]LogTemp: Warning: Item at slot 1: Med
+There are 8 available
+[2019.04.05-18.13.10:466][666]LogTemp: Warning: Item at slot 2: Med
+There are 4 available
+[2019.04.05-18.13.10:466][666]LogTemp: Warning: Item at slot 3: Med
+There are 4 available
+[2019.04.05-18.13.10:466][666]LogTemp: Warning: Item at slot 4: Med
+There are 4 available
+[2019.04.05-18.13.12:605][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.13.12:606][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.13.12:639][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.13.12:640][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.13.12:677][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.13.12:679][921]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.13.12:679][921]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.13.12:679][921]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.13.12:734][922]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.04.05-18.13.13:535][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.14.11:504][720]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.14.12:413][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.14.12:479][763]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/PrototypingE6246F22435BCFA81C3537BCA2AB93A8.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.14.40:284][918]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.14.40:916][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.14.40:988][969]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping02E9C81247DD20566844C8A8383EFC37.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.15.15:628][985]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.15.16:934][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.15.17:004][ 83]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/PrototypingBECECD8A4053453312D8DAB38A19F363.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.15.18:156][216]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.15.18:188][216]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.15.18:189][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.15.18:189][216]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:15:18 AM)
+[2019.04.05-18.15.18:189][216]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.15.18:194][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004555s)
+[2019.04.05-18.15.18:195][216]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.15.18:195][216]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2019.04.05-18.15.18:196][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.006250s)
+[2019.04.05-18.15.18:252][216]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.15.18:270][216]LogInit: FAudioDevice initialized.
+[2019.04.05-18.15.18:302][216]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.15.18:303][216]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.15.18
+[2019.04.05-18.15.18:304][216]LogWorld: Bringing up level for play took: 0.001321
+[2019.04.05-18.15.18:321][216]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.704
+[2019.04.05-18.15.18:321][216]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.15.19:435][344]LogTemp: Warning: Item added: 1
+[2019.04.05-18.15.19:435][344]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.05-18.15.19:454][344]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.15.19:465][344]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.15.22:757][735]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.05-18.15.23:323][803]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.05-18.15.23:744][853]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.15.23:744][853]LogTemp: Warning: Item added: 2
+[2019.04.05-18.15.23:745][853]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.15.23:745][853]LogBlueprintUserMessages: [Prototyping_C_0] 2
+[2019.04.05-18.15.23:745][853]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.15.25:572][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.15.25:573][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.15.25:607][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.15.25:608][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.15.25:639][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.15.25:640][ 69]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.15.25:640][ 69]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.15.25:640][ 69]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.15.25:670][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.04.05-18.15.26:482][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.15.35:812][214]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.15.36:360][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.15.36:451][257]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping402945684BE55E92B37AE0897FF55275.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.15.48:425][588]BlueprintLog: New page: Compile AfflictionPlayerController_BP
+[2019.04.05-18.15.49:166][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AfflictionPlayerController_BP" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/AfflictionPlayerController_BP.uasset" SILENT=true
+[2019.04.05-18.15.49:234][644]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/AfflictionPlayerController_BP47BF95C84FA63EADC43447B9460F5BCA.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/AfflictionPlayerController_BP.uasset'
+[2019.04.05-18.15.58:895][753]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.15.59:420][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.15.59:489][793]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/PrototypingEB8B090E4359108304D5218A735F3832.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.16.02:479][129]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.16.02:506][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.02:506][129]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.16.02:506][129]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:16:02 AM)
+[2019.04.05-18.16.02:507][129]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.16.02:511][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004140s)
+[2019.04.05-18.16.02:512][129]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.16.02:512][129]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2019.04.05-18.16.02:512][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.005430s)
+[2019.04.05-18.16.02:559][129]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.16.02:575][129]LogInit: FAudioDevice initialized.
+[2019.04.05-18.16.02:604][129]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.16.02:605][129]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.16.02
+[2019.04.05-18.16.02:606][129]LogWorld: Bringing up level for play took: 0.001118
+[2019.04.05-18.16.02:622][129]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.403
+[2019.04.05-18.16.02:622][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.04:008][288]LogTemp: Warning: Item added: 1
+[2019.04.05-18.16.04:008][288]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.05-18.16.04:009][288]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.16.04:009][288]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.16.05:324][444]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.05-18.16.05:891][512]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.05-18.16.06:429][576]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.16.06:430][576]LogTemp: Warning: Item added: 2
+[2019.04.05-18.16.06:430][576]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.16.06:430][576]LogBlueprintUserMessages: [Prototyping_C_0] 2
+[2019.04.05-18.16.06:430][576]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.16.07:761][735]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.07:763][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.16.07:796][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.16.07:797][735]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.07:830][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.16.07:832][735]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.16.07:833][735]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.16.07:833][735]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.16.07:869][738]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.05-18.16.08:756][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.16.30:040][314]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.16.31:274][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.16.31:357][439]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping0030F3AD461012F07ED756A10E21A9C2.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.16.32:890][611]Candidate modules for hot reload:
+[2019.04.05-18.16.32:890][611]  TheAffliction
+[2019.04.05-18.16.32:890][611]Launching UnrealBuildTool... [D:/Games/Fortnite/UE_4.21/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=TheAffliction,330 Win64 Development -TargetType=Editor -Project="G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" -canskiplink "G:/Unreal Projects/TheAffliction/TheAffliction/TheAffliction.uproject" ]
+[2019.04.05-18.16.32:895][611]Warning: Starting HotReload took  0.1s.
+[2019.04.05-18.16.34:399][766]CompilerResultsLog: New page: Compilation - Apr 5, 2019, 6:16:34 AM
+[2019.04.05-18.16.34:400][766]LogMainFrame: MainFrame: Module compiling took 1.541 seconds
+[2019.04.05-18.16.34:400][766]Warning: HotReload failed, recompile failed
+[2019.04.05-18.16.35:505][894]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.16.35:535][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.35:536][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.16.35:536][894]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:16:35 AM)
+[2019.04.05-18.16.35:537][894]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.16.35:542][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004995s)
+[2019.04.05-18.16.35:543][894]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.16.35:543][894]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2019.04.05-18.16.35:543][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.006592s)
+[2019.04.05-18.16.35:596][894]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.16.35:614][894]LogInit: FAudioDevice initialized.
+[2019.04.05-18.16.35:645][894]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.16.35:646][894]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.16.35
+[2019.04.05-18.16.35:647][894]LogWorld: Bringing up level for play took: 0.001279
+[2019.04.05-18.16.35:664][894]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping 0.639
+[2019.04.05-18.16.35:664][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.36:801][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.36:803][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.16.36:842][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.16.36:843][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.36:877][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.16.36:879][ 25]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.16.36:879][ 25]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.16.36:880][ 25]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.16.36:904][ 27]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.05-18.16.38:076][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.16.38:109][170]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.16.38:140][170]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.38:141][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.16.38:141][170]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:16:38 AM)
+[2019.04.05-18.16.38:142][170]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.16.38:147][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004768s)
+[2019.04.05-18.16.38:147][170]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.16.38:148][170]LogPlayLevel: PIE: World Init took: (0.001069s)
+[2019.04.05-18.16.38:148][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.006663s)
+[2019.04.05-18.16.38:199][170]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.16.38:217][170]LogInit: FAudioDevice initialized.
+[2019.04.05-18.16.38:248][170]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.16.38:250][170]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.16.38
+[2019.04.05-18.16.38:250][170]LogWorld: Bringing up level for play took: 0.001233
+[2019.04.05-18.16.38:266][170]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.759
+[2019.04.05-18.16.38:266][170]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.39:291][281]LogTemp: Warning: Item added: 1
+[2019.04.05-18.16.39:291][281]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.05-18.16.39:291][281]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.16.39:292][281]LogBlueprintUserMessages: [Prototyping_C_0] Create New Slot
+[2019.04.05-18.16.40:431][416]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.05-18.16.40:897][471]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.05-18.16.41:247][513]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.16.41:248][513]LogTemp: Warning: Item added: 2
+[2019.04.05-18.16.41:248][513]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.16.41:248][513]LogBlueprintUserMessages: [Prototyping_C_0] 2
+[2019.04.05-18.16.41:248][513]LogBlueprintUserMessages: [Prototyping_C_0] Create New Slot
+[2019.04.05-18.16.42:528][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.42:530][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.16.42:562][666]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.16.42:563][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.16.42:596][666]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.16.42:598][666]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.16.42:599][666]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.16.42:599][666]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.16.42:632][669]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.05-18.16.43:488][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.17.04:127][150]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.17.04:734][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.17.04:835][191]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping8F5EEE2F4093AA2152E60BAE5AF42230.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.17.05:926][315]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.17.05:965][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.05:966][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.17.05:966][315]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:17:05 AM)
+[2019.04.05-18.17.05:966][315]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.17.05:972][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005785s)
+[2019.04.05-18.17.05:973][315]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.17.05:974][315]LogPlayLevel: PIE: World Init took: (0.001031s)
+[2019.04.05-18.17.05:974][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.007535s)
+[2019.04.05-18.17.06:029][315]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.17.06:046][315]LogInit: FAudioDevice initialized.
+[2019.04.05-18.17.06:080][315]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.17.06:081][315]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.17.06
+[2019.04.05-18.17.06:082][315]LogWorld: Bringing up level for play took: 0.001274
+[2019.04.05-18.17.06:097][315]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping 1.073
+[2019.04.05-18.17.06:098][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.07:009][419]LogTemp: Warning: Item added: 1
+[2019.04.05-18.17.07:009][419]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.05-18.17.07:009][419]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.17.07:009][419]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.08:097][549]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.05-18.17.08:097][549]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.17.08:097][549]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.08:510][598]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.05-18.17.08:510][598]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.17.08:510][598]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.08:893][644]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.17.08:894][644]LogTemp: Warning: Item added: 2
+[2019.04.05-18.17.08:894][644]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.17.08:894][644]LogBlueprintUserMessages: [Prototyping_C_0] 2
+[2019.04.05-18.17.08:894][644]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.09:595][727]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.17.09:595][727]LogTemp: Warning: Item added: 3
+[2019.04.05-18.17.09:595][727]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.17.09:595][727]LogBlueprintUserMessages: [Prototyping_C_0] 3
+[2019.04.05-18.17.09:595][727]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.10:445][829]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.17.10:445][829]LogTemp: Warning: Item added: 4
+[2019.04.05-18.17.10:445][829]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.17.10:445][829]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.10:445][829]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.10:939][888]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.10:939][888]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.11:264][927]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.11:264][927]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.11:991][ 14]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.11:991][ 14]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.12:233][ 43]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.12:234][ 43]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.12:483][ 73]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.12:483][ 73]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.12:683][ 96]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.12:683][ 96]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.12:876][119]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.12:876][119]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.13:060][141]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.13:060][141]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.13:251][164]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.13:251][164]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.13:442][187]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.13:443][187]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.13:651][211]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.13:651][211]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.13:826][232]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.13:827][232]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.14:001][252]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.14:001][252]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.14:210][277]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.14:210][277]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.14:384][298]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.14:384][298]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.14:572][320]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.14:572][320]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.14:764][343]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.14:764][343]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.14:930][363]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.14:931][363]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.15:031][375]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.15:031][375]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.15:457][426]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.15:459][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.17.15:491][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.17.15:492][426]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.15:526][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.17.15:528][426]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.17.15:528][426]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.17.15:528][426]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.17.15:565][429]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.05-18.17.17:077][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.17.25:726][601]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.17.26:871][714]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.17.26:905][714]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.26:906][714]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.17.26:906][714]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:17:26 AM)
+[2019.04.05-18.17.26:906][714]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.17.26:911][714]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004907s)
+[2019.04.05-18.17.26:912][714]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.17.26:912][714]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2019.04.05-18.17.26:913][714]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.006522s)
+[2019.04.05-18.17.26:962][714]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.17.26:980][714]LogInit: FAudioDevice initialized.
+[2019.04.05-18.17.27:012][714]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.17.27:014][714]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.17.27
+[2019.04.05-18.17.27:014][714]LogWorld: Bringing up level for play took: 0.001164
+[2019.04.05-18.17.27:031][714]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping 0.006
+[2019.04.05-18.17.27:031][714]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.27:920][815]LogTemp: Warning: Item added: 1
+[2019.04.05-18.17.27:920][815]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.05-18.17.27:920][815]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.17.27:920][815]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.29:033][948]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.05-18.17.29:034][948]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.17.29:034][948]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.29:359][987]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.05-18.17.29:360][987]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.17.29:360][987]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.29:864][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.29:865][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.17.29:897][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.17.29:898][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.29:933][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.17.29:934][ 47]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.17.29:935][ 47]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.17.29:935][ 47]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.17.29:967][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.05-18.17.30:538][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.17.39:482][130]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.17.40:665][224]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.17.40:702][224]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.40:702][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.17.40:702][224]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:17:40 AM)
+[2019.04.05-18.17.40:703][224]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.17.40:708][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005263s)
+[2019.04.05-18.17.40:709][224]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.17.40:709][224]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2019.04.05-18.17.40:710][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.007063s)
+[2019.04.05-18.17.40:762][224]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.17.40:779][224]LogInit: FAudioDevice initialized.
+[2019.04.05-18.17.40:809][224]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.17.40:810][224]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.17.40
+[2019.04.05-18.17.40:811][224]LogWorld: Bringing up level for play took: 0.001371
+[2019.04.05-18.17.40:827][224]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.198
+[2019.04.05-18.17.40:827][224]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.41:623][314]LogTemp: Warning: Item added: 1
+[2019.04.05-18.17.41:623][314]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.05-18.17.41:623][314]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.17.41:623][314]LogBlueprintUserMessages: [Prototyping_C_0] Create New Slot
+[2019.04.05-18.17.42:175][380]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.05-18.17.42:175][380]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.17.42:175][380]LogBlueprintUserMessages: [Prototyping_C_0] Create New Slot
+[2019.04.05-18.17.43:368][522]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.05-18.17.43:368][522]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.17.43:368][522]LogBlueprintUserMessages: [Prototyping_C_0] Create New Slot
+[2019.04.05-18.17.43:851][580]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.17.43:852][580]LogTemp: Warning: Item added: 2
+[2019.04.05-18.17.43:852][580]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.17.43:852][580]LogBlueprintUserMessages: [Prototyping_C_0] 2
+[2019.04.05-18.17.43:852][580]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.44:334][635]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.17.44:334][635]LogTemp: Warning: Item added: 3
+[2019.04.05-18.17.44:334][635]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.17.44:334][635]LogBlueprintUserMessages: [Prototyping_C_0] 3
+[2019.04.05-18.17.44:334][635]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.45:052][720]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.17.45:052][720]LogTemp: Warning: Item added: 4
+[2019.04.05-18.17.45:052][720]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.17.45:052][720]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.45:052][720]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.45:783][807]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.45:783][807]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.46:140][849]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.46:140][849]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.46:389][879]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.46:390][879]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.46:598][904]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.46:598][904]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.46:756][923]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.46:756][923]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.46:949][946]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.46:949][946]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.47:179][973]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.47:180][973]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.47:370][996]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.47:371][996]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.47:571][ 20]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.17.47:571][ 20]LogBlueprintUserMessages: [Prototyping_C_0] Goes In Existing Spot
+[2019.04.05-18.17.48:417][ 92]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.48:418][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.17.48:454][ 92]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.17.48:455][ 92]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.17.48:490][ 92]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.17.48:491][ 92]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.17.48:492][ 92]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.17.48:492][ 92]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.17.48:512][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.05-18.17.52:400][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.18.27:871][637]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.18.33:908][302]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.18.33:970][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.18.33:971][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.18.33:971][302]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:18:33 AM)
+[2019.04.05-18.18.33:971][302]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.18.33:978][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006165s)
+[2019.04.05-18.18.33:979][302]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.18.33:979][302]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2019.04.05-18.18.33:980][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.008257s)
+[2019.04.05-18.18.34:067][302]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.18.34:127][302]LogInit: FAudioDevice initialized.
+[2019.04.05-18.18.34:160][302]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.18.34:161][302]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.18.34
+[2019.04.05-18.18.34:162][302]LogWorld: Bringing up level for play took: 0.001345
+[2019.04.05-18.18.34:180][302]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping 1.155
+[2019.04.05-18.18.34:180][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.18.35:100][406]LogTemp: Warning: Item added: 1
+[2019.04.05-18.18.35:100][406]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.05-18.18.35:100][406]LogBlueprintUserMessages: [Prototyping_C_0] 1
+[2019.04.05-18.18.35:100][406]LogBlueprintUserMessages: [Prototyping_C_0] Create New Slot
+[2019.04.05-18.18.35:421][444]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.05-18.18.35:829][493]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.05-18.18.36:158][532]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.18.36:159][532]LogTemp: Warning: Item added: 2
+[2019.04.05-18.18.36:159][532]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.18.36:159][532]LogBlueprintUserMessages: [Prototyping_C_0] 2
+[2019.04.05-18.18.36:159][532]LogBlueprintUserMessages: [Prototyping_C_0] Create New Slot
+[2019.04.05-18.18.36:750][603]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.18.36:751][603]LogTemp: Warning: Item added: 3
+[2019.04.05-18.18.36:751][603]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.18.36:751][603]LogBlueprintUserMessages: [Prototyping_C_0] 3
+[2019.04.05-18.18.36:751][603]LogBlueprintUserMessages: [Prototyping_C_0] Create New Slot
+[2019.04.05-18.18.37:137][649]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.18.37:137][649]LogTemp: Warning: Item added: 4
+[2019.04.05-18.18.37:137][649]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.18.37:138][649]LogBlueprintUserMessages: [Prototyping_C_0] 4
+[2019.04.05-18.18.37:138][649]LogBlueprintUserMessages: [Prototyping_C_0] Create New Slot
+[2019.04.05-18.18.38:885][857]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:892][858]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:901][859]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:909][860]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:917][861]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:926][862]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:934][863]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:943][864]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:951][865]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:959][866]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:968][867]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:976][868]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:984][869]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.38:993][870]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:001][871]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:009][872]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:018][873]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:026][874]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:034][875]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:043][876]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:051][877]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:051][877]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:059][878]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:060][878]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:068][879]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:068][879]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:076][880]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:076][880]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:085][881]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:085][881]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:093][882]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:093][882]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:101][883]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:101][883]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:110][884]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:110][884]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:118][885]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:118][885]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:126][886]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:126][886]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:136][887]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:137][887]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:148][888]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:149][888]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:156][889]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:156][889]LogTemp: Warning: Moving the pawn Forward
+[2019.04.05-18.18.39:164][890]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:173][891]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:181][892]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:190][893]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:198][894]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:206][895]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:215][896]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:223][897]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:231][898]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:240][899]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:248][900]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:256][901]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:265][902]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:273][903]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:281][904]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:290][905]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:298][906]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:306][907]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:315][908]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:323][909]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:331][910]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:340][911]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:348][912]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:349][912]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:357][913]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:357][913]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:364][914]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:364][914]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:372][915]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:372][915]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:381][916]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:381][916]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:389][917]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:389][917]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:397][918]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:398][918]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:406][919]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:406][919]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:414][920]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:414][920]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:422][921]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:423][921]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:431][922]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:431][922]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:439][923]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:448][924]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:456][925]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:464][926]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:473][927]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:481][928]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:489][929]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:498][930]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:506][931]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:507][931]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:514][932]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:515][932]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:523][933]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:523][933]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:531][934]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:531][934]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:540][935]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:540][935]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:548][936]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:548][936]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:556][937]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:556][937]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:565][938]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:565][938]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:573][939]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:573][939]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:581][940]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:582][940]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:590][941]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:590][941]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:598][942]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:598][942]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:606][943]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:607][943]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:615][944]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:615][944]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:623][945]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:623][945]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:631][946]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:632][946]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:640][947]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:640][947]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:649][948]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:649][948]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:656][949]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:657][949]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:665][950]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:665][950]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:673][951]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:673][951]LogTemp: Warning: Moving the pawn Backward
+[2019.04.05-18.18.39:682][952]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:690][953]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:698][954]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:707][955]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:715][956]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:723][957]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:732][958]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:739][959]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:747][960]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:756][961]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:764][962]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:772][963]LogTemp: Warning: Moving the pawn Right
+[2019.04.05-18.18.39:840][971]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:848][972]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:856][973]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:864][974]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:873][975]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:881][976]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:890][977]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:898][978]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:906][979]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:915][980]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:923][981]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:931][982]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:940][983]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:948][984]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:956][985]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:965][986]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:973][987]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:981][988]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:990][989]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.39:998][990]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.40:007][991]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.40:015][992]LogTemp: Warning: Moving the pawn Left
+[2019.04.05-18.18.41:280][139]LogTemp: Warning: Item at slot 1: Med
+There are 8 available
+[2019.04.05-18.18.41:280][139]LogTemp: Warning: Item at slot 2: Med
+There are 4 available
+[2019.04.05-18.18.41:280][139]LogTemp: Warning: Item at slot 3: Med
+There are 4 available
+[2019.04.05-18.18.41:281][139]LogTemp: Warning: Item at slot 4: Med
+There are 4 available
+[2019.04.05-18.18.41:614][179]LogTemp: Warning: Item at slot 1: Med
+There are 8 available
+[2019.04.05-18.18.41:614][179]LogTemp: Warning: Item at slot 2: Med
+There are 4 available
+[2019.04.05-18.18.41:615][179]LogTemp: Warning: Item at slot 3: Med
+There are 4 available
+[2019.04.05-18.18.41:615][179]LogTemp: Warning: Item at slot 4: Med
+There are 4 available
+[2019.04.05-18.18.41:772][198]LogTemp: Warning: Item at slot 1: Med
+There are 8 available
+[2019.04.05-18.18.41:772][198]LogTemp: Warning: Item at slot 2: Med
+There are 4 available
+[2019.04.05-18.18.41:773][198]LogTemp: Warning: Item at slot 3: Med
+There are 4 available
+[2019.04.05-18.18.41:773][198]LogTemp: Warning: Item at slot 4: Med
+There are 4 available
+[2019.04.05-18.18.41:940][218]LogTemp: Warning: Item at slot 1: Med
+There are 8 available
+[2019.04.05-18.18.41:940][218]LogTemp: Warning: Item at slot 2: Med
+There are 4 available
+[2019.04.05-18.18.41:940][218]LogTemp: Warning: Item at slot 3: Med
+There are 4 available
+[2019.04.05-18.18.41:940][218]LogTemp: Warning: Item at slot 4: Med
+There are 4 available
+[2019.04.05-18.18.42:072][234]LogTemp: Warning: Item at slot 1: Med
+There are 8 available
+[2019.04.05-18.18.42:072][234]LogTemp: Warning: Item at slot 2: Med
+There are 4 available
+[2019.04.05-18.18.42:072][234]LogTemp: Warning: Item at slot 3: Med
+There are 4 available
+[2019.04.05-18.18.42:072][234]LogTemp: Warning: Item at slot 4: Med
+There are 4 available
+[2019.04.05-18.18.42:365][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.18.42:366][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.18.42:399][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.05-18.18.42:400][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.18.42:435][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.05-18.18.42:436][268]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.18.42:436][268]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.18.42:436][268]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.18.42:470][271]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.04.05-18.18.43:299][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.05-18.19.45:836][571]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.19.46:621][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.19.46:694][606]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping30A45D6C47CD275811A7BBACC79689D8.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.23.39:802][187]LogSlate: Took 0.011157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.05-18.23.42:363][462]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.24.09:911][483]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.24.10:395][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.24.10:467][518]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping390EFA954E6B82C4A0C01A90EE54C17F.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.25.49:354][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/TESTING/Prototyping' took 0.051
+[2019.04.05-18.25.49:429][331]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TESTING/Prototyping] ([1] browsable assets)...
+[2019.04.05-18.25.49:429][331]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TESTING/Prototyping]
+[2019.04.05-18.25.49:429][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Autosaves/Game/UI/TESTING/Prototyping_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.05-18.25.49:581][331]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping_Auto1D695B58A44EAF3C87CAEA0A8377DAE51.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Autosaves/Game/UI/TESTING/Prototyping_Auto1.uasset'
+[2019.04.05-18.25.49:584][331]LogFileHelpers: Auto-saving content packages took 0.228
+[2019.04.05-18.27.47:645][931]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.28.34:134][ 87]LogSlate: Took 0.050516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.04.05-18.29.27:337][149]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.29.28:406][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.29.28:503][209]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/PrototypingCFBFAD3E48B3CE46E324E1BCD9512FAE.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.30.11:746][219]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.30.12:605][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.30.12:678][255]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping7063085F46852B2D41B6BC919FDD0C6D.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.32.30:108][133]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.34.12:590][ 45]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.34.13:590][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.34.13:679][ 85]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/PrototypingF6A4EAB04876391D063DF4A45313EBEB.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.34.39:388][971]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.34.40:114][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.34.40:204][ 35]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping8377459B4105E1ACFA14E48E2A05DA0B.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.34.46:525][714]BlueprintLog: New page: Compile Prototyping
+[2019.04.05-18.34.46:937][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TESTING/Prototyping" FILE="G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset" SILENT=true
+[2019.04.05-18.34.47:048][740]LogSavePackage: Moving 'G:/Unreal Projects/TheAffliction/TheAffliction/Saved/Prototyping4165A86D4FF2442BBCC9BF88C063C36E.tmp' to 'G:/Unreal Projects/TheAffliction/TheAffliction/Content/UI/TESTING/Prototyping.uasset'
+[2019.04.05-18.34.47:984][846]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.05-18.34.48:040][846]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.34.48:041][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.05-18.34.48:041][846]PIE: New page: PIE session: Prototyping (Apr 5, 2019, 6:34:48 AM)
+[2019.04.05-18.34.48:042][846]LogPlayLevel: Creating play world package: /Game/Levels/TESTING/UEDPIE_0_Prototyping
+[2019.04.05-18.34.48:047][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004875s)
+[2019.04.05-18.34.48:047][846]LogAIModule: Creating AISystem for world Prototyping
+[2019.04.05-18.34.48:048][846]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2019.04.05-18.34.48:048][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TESTING/Prototyping.Prototyping to /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping (0.006682s)
+[2019.04.05-18.34.48:103][846]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.05-18.34.48:121][846]LogInit: FAudioDevice initialized.
+[2019.04.05-18.34.48:154][846]LogLoad: Game class is 'MyTheAfflictionGameModeBase_BP_C'
+[2019.04.05-18.34.48:156][846]LogWorld: Bringing World /Game/Levels/TESTING/UEDPIE_0_Prototyping.Prototyping up for play (max tick rate 0) at 2019.04.05-12.34.48
+[2019.04.05-18.34.48:156][846]LogWorld: Bringing up level for play took: 0.001247
+[2019.04.05-18.34.48:170][846]PIE: Play in editor start time for /Game/Levels/TESTING/UEDPIE_0_Prototyping -0.855
+[2019.04.05-18.34.48:170][846]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping' with GeneratedClass '/Game/Levels/TESTING/Prototyping.Prototyping_C' with ClassGeneratedBy '/Game/Levels/TESTING/Prototyping.Prototyping:PersistentLevel.Prototyping'
+[2019.04.05-18.34.49:368][980]LogTemp: Warning: Item added: 1
+[2019.04.05-18.34.49:368][980]LogTemp: Warning: There is nothing in the inventory, just gonna add something to it
+[2019.04.05-18.34.50:010][ 54]LogTemp: Warning: Couldn't completely fill used up the item, Destroying it
+[2019.04.05-18.34.50:614][126]LogTemp: Warning: Added just the right amount, item should be destroyed
+[2019.04.05-18.34.52:772][384]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.34.52:772][384]LogTemp: Warning: Item added: 2
+[2019.04.05-18.34.52:773][384]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.34.53:812][507]LogTemp: Warning: hey i am adding one to the Inventory Number to use
+[2019.04.05-18.34.53:813][507]LogTemp: Warning: Item added: 3
+[2019.04.05-18.34.53:813][507]LogTemp: Warning: Item wasnt stackable, adding it to the inventory if there is room
+[2019.04.05-18.34.54:063][530]LogTemp: Warning: DeconstructedAItem
+[2019.04.05-18.34.54:063][530]LogTemp: Warning: DeconstructedAItem

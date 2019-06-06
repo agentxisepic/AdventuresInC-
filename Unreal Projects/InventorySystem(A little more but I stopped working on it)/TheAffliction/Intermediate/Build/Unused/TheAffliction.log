@@ -1,0 +1,46 @@
+﻿  Cleaning TheAfflictionEditor and UnrealHeaderTool binaries...
+  Using 'git status' to determine working set for adaptive non-unity build (G:\Unreal Projects\TheAffliction).
+  Creating makefile for TheAfflictionEditor (no existing makefile)
+  Parsing headers for TheAfflictionEditor
+    Running UnrealHeaderTool "G:\Unreal Projects\TheAffliction\TheAffliction\TheAffliction.uproject" "G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\TheAfflictionEditor\Development\TheAfflictionEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for TheAfflictionEditor in 7.0015669 seconds
+  Using Visual Studio 2019 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 34 actions with 4 processes...
+    [1/34] Default.rc2
+    [2/34] SharedPCH.Engine.cpp
+    [3/34] Armor_Item.cpp
+    [4/34] AfflictionMovementComponent.cpp
+    [5/34] AfflictionPlayerController.cpp
+    [6/34] Inventory.cpp
+    [7/34] TheAfflictionGameModeBase.cpp
+    [8/34] Medical_Item.cpp
+    [9/34] Item.cpp
+    [10/34] PlayerControllerNathan.cpp
+    [11/34] Nathan.cpp
+    [12/34] PlayerCharacter.cpp
+    [13/34] TheAffliction.cpp
+    [14/34] PlayerStatsController.cpp
+    [15/34] AfflictionCharacter.gen.cpp
+    [16/34] InventoryDataStructure.cpp
+    [17/34] PlayerCharacter.gen.cpp
+    [18/34] AfflictionMovementComponent.gen.cpp
+    [19/34] AfflictionPlayerController.gen.cpp
+    [20/34] Armor_Item.gen.cpp
+    [21/34] Inventory.gen.cpp
+    [22/34] Item.gen.cpp
+    [23/34] Medical_Item.gen.cpp
+    [24/34] Weapon_Item.cpp
+    [25/34] Nathan.gen.cpp
+    [26/34] PlayerControllerNathan.gen.cpp
+    [27/34] TheAffliction.init.gen.cpp
+    [28/34] TheAfflictionGameModeBase.gen.cpp
+    [29/34] Weapon_Item.gen.cpp
+    [30/34] AfflictionCharacter.cpp
+    [31/34] PlayerStatsController.gen.cpp
+    [32/34] UE4Editor-TheAffliction.lib
+       Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction.exp
+    [33/34] UE4Editor-TheAffliction.dll
+       Creating library G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction.suppressed.lib and object G:\Unreal Projects\TheAffliction\TheAffliction\Intermediate\Build\Win64\UE4Editor\Development\TheAffliction\UE4Editor-TheAffliction.suppressed.exp
+    [34/34] TheAfflictionEditor.target
+  Total time in Parallel executor: 51.59 seconds
+  Total execution time: 93.82 seconds
